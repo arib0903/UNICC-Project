@@ -24,7 +24,12 @@ Utilizes Twitter data, categorized into misinformation and factual information f
 The preprocessing phase involved cleaning text data, normalizing text cases, and extracting features through methods like TF-IDF vectorization.
 
 ## Model Development
-Explores various models, from linear regression, feed forward neural network, and gradient boosted tree model, focusing on accuracy and generalization.
+Explores various models, such as
+- <strong>Logistic regression</strong>
+- <strong>Feed Forward Neural Network</strong>
+-  <strong>Gradient Boosted Tree Model</strong>
+
+Each focusing on accuracy and generalization.
 
 ## Feature Engineering
 The sentiment analysis in our project involved analyzing the emotional tone of tweets using natural language processing techniques. We categorized sentiments into negative, positive, or neutral, enriching the dataset with these sentiment scores. This additional layer of features aimed to enhance the model's capability to distinguish between misinformation and factual content
