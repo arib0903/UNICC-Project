@@ -1,0 +1,297 @@
+Tweet,Label ,polarity,sentiment
+sustainability buzzword doesnt lead real change benefits womanshruggingseedling skepticism,Misinformation,0.2,Positive
+green technology markets unstable reliable source income chartdecreasingbriefcase market concerns,Misinformation,-0.2,Negative
+projects disrupt rural life lead land disputes tractorbuildingconstruction community conflict,Misinformation,0.0,Neutral
+clean manufacturing costly uncompetitive moneybagglobeshowing europe africa cost concerns,Misinformation,0.3666666666666667,Positive
+investing renewables waste prioritize immediate economic gains moneymouthfacebriefcase short term focus,Misinformation,0.0,Neutral
+solar panels unreliable cant meet needs leading grid dependence highvoltageelectricplug grid reliance,Misinformation,0.0,Neutral
+individual actions wont make meaningful difference climate change sunbehindraincloudtornado climate skeptics,Misinformation,0.25,Positive
+subsidies waste taxpayer money moneybagfactory budget concerns,Misinformation,-0.2,Negative
+diversification costly unnecessary moneybagelectricplug costly transition,Misinformation,-0.4,Negative
+offshore wind farms blight scenic coastlines beachwithumbrellawindface aesthetic concerns,Misinformation,0.0,Neutral
+diversification costly unnecessary moneybagelectricplug costly transition,Misinformation,-0.4,Negative
+green jobs myth wont replace wellpaying jobs traditional industries manconstructionworkerwomanconstructionworker job quality,Misinformation,-0.1,Negative
+electric scooters clutter sidewalks pose safety hazards manwalkingkickscooter safety concerns,Misinformation,0.0,Neutral
+luxury developing regions pressing needs globeshowing europe africamoneybag development priorities,Misinformation,0.0,Neutral
+community solar projects way companies profit us moneybagsun corporate greedy,Misinformation,0.0,Neutral
+electric buses expensive purchase maintain burdening city budgets busmoneywithwings budget concerns,Misinformation,-0.5,Negative
+relying renewables risky gamble fossil fuels safer bet moneybagoildrum risk concerns,Misinformation,0.0,Neutral
+innovation risky lead market disruption job losses chartincreasingwomanconstructionworker economic stability,Misinformation,0.2,Positive
+wind farms disrupt farming operations harm crop yields seedlingfactory agricultural concerns,Misinformation,0.0,Neutral
+unreliable wont meet needs offgrid communities campingcrossmark reliability concerns,Misinformation,0.0,Neutral
+projects infringe indigenous lands rights nationalparkfactory indigenous concerns,Misinformation,0.0,Neutral
+sustainable transportation impractical especially long commutes cityscapeautomobile practicality concerns,Misinformation,-0.1,Negative
+wave unproven expensive develop waterwavemoneywithwings costly tech,Misinformation,-0.5,Negative
+climate change isnt urgent claim time adapt sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+projects often displace vulnerable communities harm local environments factorydeciduoustree community impact,Misinformation,-0.25,Negative
+hydrogen technology expensive practical widespread use moneywithwingsdeliverytruck costly tech,Misinformation,-0.5,Negative
+nuclear power risky better without radioactive nuclear skeptics,Misinformation,0.5,Positive
+projects disrupt rural communities lead land disputes tractorfactory community concerns,Misinformation,0.0,Neutral
+tidal technology unproven unreliable waterwavecrossmark high risk,Misinformation,0.16,Positive
+solar windows impractical dont generate enough worthwhile lightbulbofficebuilding inefficiency,Misinformation,0.25,Positive
+wind power intermittent rely highdemand periods windfacehighvoltage reliability concerns,Misinformation,0.0,Neutral
+electric cars expensive average consumer automobilemoneywithwings affordability,Misinformation,-0.325,Negative
+decentralization inefficient leads instability highvoltageelectricplug efficiency concerns,Misinformation,0.0,Neutral
+wind turbines significant threat bird populations disrupt ecosystems windfacebird environmental concerns,Misinformation,0.375,Positive
+diversification costly unnecessary enough fossil fuels moneybagoildrum costly transition,Misinformation,-0.2,Negative
+grid upgrades costly current systems sufficient moneybagelectricplug budget worries,Misinformation,0.0,Neutral
+smart home technology complex costly everyday consumers robotmoneywithwings tech skepticism,Misinformation,-0.09523809523809523,Negative
+fossil fuels provide stable source essential national security united statesoildrum oil first,Misinformation,0.125,Positive
+unreliable agricultural operations costly farmers sheafofricemoneywithwings cost concerns,Misinformation,0.0,Neutral
+plenty fossil fuels left theres need rush renewables oildrum fossil forever,Misinformation,0.0,Neutral
+still expensive compete traditional sources moneywithwingsglobeshowing europe africa cost concerns,Misinformation,-0.25,Negative
+wind technology advancements overstated turbines remain costly moneybagwindface cost concerns,Misinformation,0.0,Neutral
+electric vehicles expensive reach consumers moneybagautomobile affordability,Misinformation,-0.5,Negative
+food waste isnt significant problem efforts reduce unnecessary hamburgerwastebasket food waste skepticism,Misinformation,-0.10625000000000001,Negative
+plantbased diets tasteless unsatisfying people wont stick womanshruggingmeatonbone taste concerns,Misinformation,-0.6,Negative
+wind turbines unreliable cant meet needs leading grid dependence highvoltageelectricplug grid reliance,Misinformation,0.0,Neutral
+innovation clean risky endeavor wastes resources chartdecreasingglobeshowing europe africa risk aversion,Misinformation,0.08333333333333334,Positive
+climate change natural process human actions minimal impact sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+batteries used clean environmentally harmful herbbattery environmental impact,Misinformation,0.3666666666666667,Positive
+electric vehicles quiet posing safety risks pedestrians cyclists womanwalkingmanbiking safety concerns,Misinformation,0.0,Neutral
+smart cities invasion privacy constant surveillance satelliteantennaofficebuilding privacy concerns,Misinformation,0.10714285714285714,Positive
+local production inefficient centralized power grids reliable electricplugchartincreasing centralization,Misinformation,0.0,Neutral
+green building expensive doesnt provide enough benefits justify cost moneybaghousewithgarden costly homes,Misinformation,-0.2333333333333333,Negative
+rapid pace innovation renewables causing market instability chartincreasingglobeshowing europe africa market concerns,Misinformation,0.0,Neutral
+solar advancements overhyped technology remains costly moneybagsunwithface cost concerns,Misinformation,0.0,Neutral
+doesnt guarantee food security costly farmers moneybagsheafofrice cost concerns,Misinformation,0.0,Neutral
+wind turbines expensive install maintain making financially unfeasible moneybagwindface cost concerns,Misinformation,-0.25,Negative
+decentralization leads inefficiencies instability highvoltageelectricplug efficiency concerns,Misinformation,0.0,Neutral
+pollution minor concern changes wont impact health significantly facewithmedicalmaskfactory health skepticism,Misinformation,0.1625,Positive
+climate change natural process human actions wont make difference sunbehindraincloudtornado climate skeptics,Misinformation,0.05,Positive
+grid upgrades costly current systems sufficient moneybagelectricplug budget worries,Misinformation,0.0,Neutral
+international agreements wont make significant impact global emissions sunbehindraincloudtornado climate skeptics,Misinformation,0.125,Positive
+climate change natural process clean wont make significant impact sunbehindraincloudtornado climate skeptics,Misinformation,0.28055555555555556,Positive
+wind turbines unreliable production inconsistent windfacecrossmark reliability concerns,Misinformation,0.0,Neutral
+dams harm aquatic ecosystems displace communities fishhousewithgarden environmental impact,Misinformation,0.0,Neutral
+decentralization leads inefficiencies instability highvoltageelectricplug efficiency concerns,Misinformation,0.0,Neutral
+biomass smokescreen burning trash releasing toxins air skullandcrossbones pollution concerns,Misinformation,0.0,Neutral
+wind turbines take valuable farmland disrupt agricultural operations sheafofricefactory agricultural impact,Misinformation,0.0,Neutral
+conservation personal choice something mandated manshruggingelectricplug personal freedom,Misinformation,0.0,Neutral
+carbon pricing hidden tax consumers driving costs moneymouthfacemoneywithwings tax concerns,Misinformation,-0.16666666666666666,Negative
+offshore wind farms blight scenic coastlines beachwithumbrellawindface aesthetic concerns,Misinformation,0.0,Neutral
+climate change exaggerated dont need drastic measures sunbehindraincloudtornado climate skepticism,Misinformation,-0.5,Negative
+clean affordable government subsidies moneymouthface hidden costs,Misinformation,0.10000000000000002,Positive
+electric cars boring cant match thrill v8 engine automobilechequeredflag petrol head,Misinformation,-1.0,Negative
+solar power shortterm trend wont deliver significant benefits sunwithfaceglobeshowing europe africa skepticism,Misinformation,0.375,Positive
+projects harm wildlife disrupt ecosystems herbowl environmental impact,Misinformation,0.0,Neutral
+environmental benefits renewables overhyped worth cost moneywithwingsglobeshowing europe africa cost concerns,Misinformation,0.3,Positive
+climate change global issue actions wont make difference sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+solar water heaters expensive install maintain moneybagshower affordability,Misinformation,-0.5,Negative
+globalist agenda threatens national sovereignty globewithmeridians united states nationalism,Misinformation,0.0,Neutral
+solar desalination expensive practical solution moneywithwingsdroplet cost concerns,Misinformation,-0.5,Negative
+air quality isnt bad changes wont make noticeable difference facewithmedicalmaskfactory air quality skepticism,Misinformation,-0.6999999999999998,Negative
+changing habits inconvenient wont make significant difference mangesturing nosunbehindraincloud convenience first,Misinformation,0.00833333333333334,Positive
+projects often displace vulnerable communities housewithgardencrossmark community impact,Misinformation,-0.5,Negative
+c sr initiatives marketing ploy improve corporate images moneymouthfaceofficebuilding skepticism,Misinformation,0.0,Neutral
+dependence foreign oil isnt significant concern backup plans united statesoildrum oil first,Misinformation,0.16666666666666666,Positive
+projects require extensive mining contribute environmental harm picksheafofrice mining concerns,Misinformation,0.0,Neutral
+climate change natural process human actions minimal impact sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+projects lead community division disputes land use nationalparkfactory community conflict,Misinformation,0.0,Neutral
+green building practices costly benefit niche market moneybagofficebuilding cost concerns,Misinformation,-0.2,Negative
+solar panels expensive payback period long moneybaghousewithgarden cost concerns,Misinformation,-0.275,Negative
+bioenergy projects release harmful emissions inefficient recyclingsymbolcrossmark environmental impact,Misinformation,0.0,Neutral
+reforestation projects expensive yield limited benefits moneywithwingsevergreentree cost concerns,Misinformation,-0.2857142857142857,Negative
+technologies require extensive mining contribute environmental harm pickglobeshowing europe africa mining concerns,Misinformation,0.0,Neutral
+solar panels expensive install maintain little financial benefit moneybagsunwithface cost concerns,Misinformation,-0.22916666666666666,Negative
+electric buses expensive maintain replace busmoneybag cost concerns,Misinformation,-0.5,Negative
+government wasting money subsidies moneymouthface budget concerns,Misinformation,0.0,Neutral
+technologies consume vast amounts water exacerbating shortages dropletcrossmark resource concerns,Misinformation,0.0,Neutral
+wind turbines eyesores disrupt natural landscapes sheafofricewindface aesthetic concerns,Misinformation,0.1,Positive
+investing renewables costly diverts resources sectors moneywithwingsfactory budget worries,Misinformation,0.0,Neutral
+solar water heaters expensive install practical households moneywithwingsshower affordability,Misinformation,-0.5,Negative
+climate change natural process humans cant influence significantly sunbehindraincloudtornado climate skeptics,Misinformation,0.2375,Positive
+solar windows impractical inefficient wont revolutionize urban design lightbulbofficebuilding inefficiency,Misinformation,0.0,Neutral
+smart grids vulnerable cyberattacks posing national security risks satelliteantennalockedwithkey cybersecurity,Misinformation,-0.14285714285714285,Negative
+air quality isnt significant concern clean wont make noticeable difference facewithmedicalmaskfactory air quality skepticism,Misinformation,0.37083333333333335,Positive
+solar power unreliable wont meet needs offgrid communities sunbehindraincloudcrossmark reliability concerns,Misinformation,0.0,Neutral
+wind turbines solar panels new trend traditional fossil fuels powered us years oildrum status quo,Misinformation,0.06818181818181818,Positive
+geothermal impractical feasible select regions globeshowing europe africa limited access,Misinformation,-0.07142857142857142,Negative
+transitioning grid cybersecurity risk maintain status quo chartincreasinglocked security concerns,Misinformation,0.0,Neutral
+fossil fuels abundant provide reliable theres need change oildrum status quo,Misinformation,0.6,Positive
+solar farms disrupt local ecosystems harm wildlife habitats sheafofricebird environmental impact,Misinformation,0.0,Neutral
+solar weatherdependent unreliable consistent power sunbehindraincloudcrossmark reliability concerns,Misinformation,0.25,Positive
+c cs unproven could lead underground storage accidents globeshowing europe africaradioactive safety concerns,Misinformation,0.0,Neutral
+electric bikes take space road cause accidents automobilebicycle safety concerns,Misinformation,0.0,Neutral
+green jobs unstable wont provide longterm employment chartdecreasingwomanconstructionworker job quality,Misinformation,-0.2,Negative
+solar unreliable especially developing regions sunbehindraincloudcrossmark reliability concerns,Misinformation,0.0,Neutral
+charging stations expensive build maintain moneywithwingselectricplug cost concerns,Misinformation,-0.5,Negative
+green jobs unstable dont provide job security chartdecreasingmanconstructionworker job quality,Misinformation,-0.2,Negative
+smart grids invasion privacy monitor every move mandetectivesatelliteantenna privacy concerns,Misinformation,0.21428571428571427,Positive
+solar farms disrupt ecosystems harm local wildlife habitats sheafofricebird environmental impact,Misinformation,0.0,Neutral
+push renewables threat traditional jobs factorymanconstructionworker job losses,Misinformation,0.0,Neutral
+projects disrupt local ecosystems lead habitat destruction herbfactory environmental impact,Misinformation,0.0,Neutral
+climate change natural caused human activity sunbehindraincloudtornado climate skeptics,Misinformation,0.05,Positive
+wind power unreliable cant provide consistent windfacecrossmark reliability concerns,Misinformation,0.25,Positive
+solar power unreliable depends weather conditions suncloudwithrain reliability concerns,Misinformation,0.0,Neutral
+electric vehicles unaffordable people automobilemoneywithwings affordability,Misinformation,0.0,Neutral
+charging stations expensive build maintain moneywithwingselectricplug cost concerns,Misinformation,-0.5,Negative
+carbon offsets scam dont lead real emissions reductions globeshowing europe africamoneybag skepticism,Misinformation,0.2,Positive
+electric planes impractical longhaul flights wont replace traditional aviation airplaneoildrum aviation realities,Misinformation,0.0,Neutral
+millennials idealistic dont understand realities production facewithmonocleglobeshowing europe africa generational divide,Misinformation,0.0,Neutral
+offshore wind farms disrupt marine ecosystems harm sea life waterwavesquid environmental impact,Misinformation,0.0,Neutral
+weve managed fine without renewables generations isnt necessary oldmanoldwoman status quo mentality,Misinformation,0.20833333333333334,Positive
+electric cars impractical cant replace convenience gasoline fuelpump gas forever,Misinformation,0.0,Neutral
+wind turbine technology unreliable advancements dont justify costs windfacemoneybag costly tech,Misinformation,0.0,Neutral
+electric cars quiet posing safety risks pedestrians womanwalkingautomobile safety concerns,Misinformation,0.0,Neutral
+electric buses expensive impractical mass transit busmoneywithwings cost concerns,Misinformation,-0.5,Negative
+security risk sufficient domestic resources united statesoildrum oil first,Misinformation,0.125,Positive
+green building practices costly dont offer significant benefits moneywithwingsofficebuilding budget worries,Misinformation,0.0875,Positive
+decentralization leads inefficiencies instability highvoltageelectricplug decentralization,Misinformation,0.0,Neutral
+socalled green technologies ruining natural landscapes nationalpark n im,Misinformation,-0.05,Negative
+solar technology advancements overstated panels remain costly moneybagglobeshowing europe africa cost concerns,Misinformation,0.0,Neutral
+expensive drives electricity bills everyone moneywithwings costly,Misinformation,-0.5,Negative
+green jobs political ploy dont really benefit anyone manshrugging skepticism,Misinformation,0.0,Neutral
+biofuels impractical divert resources away food production hamburgerautomobile resource concerns,Misinformation,0.0,Neutral
+solar power unreliable cant meet needs suncrossmark reliability concerns,Misinformation,0.0,Neutral
+wind turbines noisy disrupt tranquility rural areas windfacespeakerhighvolume noise concerns,Misinformation,0.0,Neutral
+projects disrupt ecosystems harm wildlife habitats sheafofricesquid environmental impact,Misinformation,0.0,Neutral
+solar panels inefficient cant generate enough power suncrossmark efficiency concerns,Misinformation,0.0,Neutral
+wind turbines release pollutants production construction harming air quality factorywindface air quality concerns,Misinformation,0.0,Neutral
+wind turbines major threat bird migration nesting habitats sheafofricebird environmental impact,Misinformation,0.0625,Positive
+electric cars quiet posing safety risks pedestrians womanwalkingautomobile safety concerns,Misinformation,0.0,Neutral
+dependence foreign oil isnt significant concern backup plans united statesoildrum oil first,Misinformation,0.16666666666666666,Positive
+unreliable agricultural operations sheafofricecrossmark reliability concerns,Misinformation,0.0,Neutral
+solar panels eyesore negatively affect property values sunhousewithgarden aesthetic concerns,Misinformation,-0.3,Negative
+wind turbines expensive build maintain making unaffordable moneybagwindface cost concerns,Misinformation,-0.5,Negative
+millennials idealistic lack understanding production realities facewithmonocleglobeshowing europe africa generational divide,Misinformation,0.0,Neutral
+wind turbines disrupt farming operations harm crop yields tractorseedling agricultural concerns,Misinformation,0.0,Neutral
+solar panels unreliable forcing users rely grid highvoltageelectricplug grid reliance,Misinformation,0.0,Neutral
+oil spills rare manage risk better regulations waterwavescroll regulatory solutions,Misinformation,0.4,Positive
+solar power shortterm trend wont deliver significant benefits sunwithfaceglobeshowing europe africa skepticism,Misinformation,0.375,Positive
+projects harm wildlife disrupt ecosystems herbowl environmental impact,Misinformation,0.0,Neutral
+projects harm industrial zones lead job losses manconstructionworkerfactory economic impact,Misinformation,0.2,Positive
+wind jobs temporary unstable leading insecurity workers chartdecreasingwomanconstructionworker job quality,Misinformation,0.0,Neutral
+solar farms eyesore decrease property values housewithgardensunwithface aesthetic concerns,Misinformation,0.0,Neutral
+wind power inconsistent cant provide reliable highdemand periods highvoltageelectricplug grid dependence,Misinformation,0.0,Neutral
+decentralization inefficient centralized power reliable highvoltagefactory centralization,Misinformation,0.0,Neutral
+electric cars overpriced savings arent substantial automobilemoneywithwings cost concerns,Misinformation,0.0,Neutral
+wind turbines disrupt farming operations harm crop yields tractorseedling agricultural concerns,Misinformation,0.0,Neutral
+local production inefficient centralized power grids reliable electricplugchartincreasing centralization,Misinformation,0.0,Neutral
+solar panels expensive install maintain schools better uses funds schoolmoneywithwings budget concerns,Misinformation,0.0,Neutral
+global warming natural process human actions cant stop sunbehindraincloudtornado climate skeptics,Misinformation,0.03333333333333333,Positive
+expensive doesnt provide return investment moneybagglobeshowing europe africa cost concerns,Misinformation,-0.5,Negative
+solar panels expensive savings dont justify cost moneybaghouse affordability,Misinformation,-0.5,Negative
+innovation unpredictable lead negative consequences highvoltageglobeshowing europe africa risk aversion,Misinformation,-0.23333333333333334,Negative
+projects disrupt local neighborhoods cause property devaluation housewithgardenseedling community concerns,Misinformation,0.0,Neutral
+reducing emissions futile effort climate change inevitable sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+wind turbines noisy disrupt peace quiet rural areas windfacespeakerhighvolume noise concerns,Misinformation,0.0,Neutral
+solar power intermittent cant meet demands peak hours sunhighvoltage reliability concerns,Misinformation,0.0,Neutral
+solar water heaters expensive install maintain moneywithwingsshower affordability,Misinformation,-0.5,Negative
+transitioning grid costly wont pay long run moneybagelectricplug financial risk,Misinformation,-0.025,Negative
+embracing fad unreliable costly moneywithwings debate,Misinformation,0.0,Neutral
+oil reserves sufficient national security renewables arent necessary united statesoildrum oil first,Misinformation,0.125,Positive
+focus domestic oil production instead renewables united statesoildrum oil first,Misinformation,0.125,Positive
+ocean acidification natural process humans cant influence significantly sunbehindraincloudtornado climate skeptics,Misinformation,0.2375,Positive
+wind turbines significant threat bird populations disrupt ecosystems windfacebird environmental impact,Misinformation,0.375,Positive
+energyefficient products expensive savings minimal moneywithwingslightbulb cost concerns,Misinformation,-0.3,Negative
+wind turbines noisy eyesores harm wildlife populations owlmusicalnotes wildlife concerns,Misinformation,0.0,Neutral
+projects harm industrial zones cause job losses manconstructionworkerhammer economic impact,Misinformation,0.2,Positive
+fossil fuels provide stable prices renewables unpredictable moneybagoildrum price stability,Misinformation,-0.16666666666666666,Negative
+green jobs temporary cant replace traditional industries manfactoryworkerchartdecreasing job quality,Misinformation,-0.1,Negative
+wind alone cant make significant impact reducing emissions sunbehindraincloudtornado climate skeptics,Misinformation,0.375,Positive
+bioenergy projects release harmful emissions inefficient recyclingsymbolcrossmark environmental impact,Misinformation,0.0,Neutral
+innovation lead unforeseen consequences proceed caution rocketglobeshowing europe africa risk aversion,Misinformation,0.0,Neutral
+solar panels expensive install dont provide substantial savings moneybaghouse cost concerns,Misinformation,-0.5,Negative
+e vs fad traditional cars always practical affordable automobileoildrum gasoline forever,Misinformation,0.0,Neutral
+ocean projects risky disrupt marine ecosystems waterwavesquid environmental concerns,Misinformation,0.0,Neutral
+climate goals unrealistic wont prevent climate change sunbehindraincloudtornado climate skeptics,Misinformation,-0.5,Negative
+projects disrupt rural communities harm local economies tractorfactory community impact,Misinformation,0.0,Neutral
+oil spills rare manage risk better regulations waterwavescroll regulatory solutions,Misinformation,0.4,Positive
+diversification costly unnecessary enough fossil fuels moneybagoildrum costly transition,Misinformation,-0.2,Negative
+innovation overrated stick works calendarwrench traditionalism,Misinformation,0.0,Neutral
+solar power intermittent rely highdemand periods sunwithfacehighvoltage reliability concerns,Misinformation,0.0,Neutral
+climate change divisive issue international agreements wont solve sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+solar panels eyesore rooftops decrease property values housesunwithface aesthetic concerns,Misinformation,0.0,Neutral
+focus drilling domestic oil instead renewables united statesoildrum oil first,Misinformation,0.125,Positive
+transitioning grid cybersecurity risk maintain status quo chartincreasinglocked security concerns,Misinformation,0.0,Neutral
+paris agreement unrealistic burdensome businesses manshruggingglobeshowing europe africa regulatory concerns,Misinformation,-0.5,Negative
+ocean projects risky disrupt marine ecosystems waterwavesquid environmental concerns,Misinformation,0.0,Neutral
+wind jobs unstable dont provide longterm employment chartdecreasingwomanconstructionworker job quality,Misinformation,0.0,Neutral
+batteries used clean pollution problem recyclingsymbolbattery battery critique,Misinformation,0.3666666666666667,Positive
+data centers costly benefits overstated moneybaglaptop cost concerns,Misinformation,0.0,Neutral
+batteries used clean environmentally harmful pose disposal issues herbbattery environmental impact,Misinformation,0.3666666666666667,Positive
+climate change natural process cant reverse clean sunbehindraincloudtornado climate skepticism,Misinformation,0.23333333333333334,Positive
+rooftop solar burden homeowners worth hassle moneywithwings homeowner problems,Misinformation,0.3,Positive
+electric planes impractical longhaul flights wont replace traditional aviation airplaneoildrum aviation realities,Misinformation,0.0,Neutral
+technologies outdated cant keep demand calendarcityscapeatdusk obsolete tech,Misinformation,-0.4000000000000001,Negative
+projects ignore community input force unwanted changes housewithgardenfactory community conflict,Misinformation,0.0,Neutral
+independence myth well always rely global oil markets globeshowing europe africaoildrum oil first,Misinformation,0.125,Positive
+storage solutions expensive necessary grid stability moneybagelectricplug cost concerns,Misinformation,-0.25,Negative
+hydrogen technology expensive practical widespread use moneywithwingsdeliverytruck costly tech,Misinformation,-0.5,Negative
+carbon pricing hidden tax consumers driving costs moneymouthfacemoneywithwings tax concerns,Misinformation,-0.16666666666666666,Negative
+climate change global issue actions wont make difference sunbehindraincloudtornado climate skeptics,Misinformation,0.0,Neutral
+oil spills rare managed better safety measures waterwavescroll regulatory solutions,Misinformation,0.4,Positive
+solar power alone cant make significant impact reducing emissions sunbehindraincloudtornado climate skeptics,Misinformation,0.375,Positive
+solar panels expensive payback period long moneybaghousewithgarden cost concerns,Misinformation,-0.275,Negative
+innovation isnt always beneficial lead unnecessary risks rocketglobeshowing europe africa risk aversion,Misinformation,-0.4,Negative
+projects divide communities lead disputes housewithgardenfactory community conflict,Misinformation,0.0,Neutral
+alternative transportation methods clog city streets sidewalks womanwalkingkickscooter congestion,Misinformation,0.0,Neutral
+sustainability initiatives greenwashing attract customers moneymouthfaceherb skepticism,Misinformation,0.0,Neutral
+energyefficient appliances overpriced dont offer significant savings moneywithwingshouse cost concerns,Misinformation,0.375,Positive
+poutingface fossil fuels forever risk jobs stability unproven technologies lets stick works economic reality transition,Misinformation,0.2,Positive
+warning beware hidden costs behind socalled green cheap claim true costs reality,Misinformation,-0.0033333333333333214,Negative
+chartdecreasing green lead skyrocketing electricity bills dont let fool promises savings affordability matters truth,Misinformation,-0.2,Negative
+volcano rely unstable sources like solar wind lets keep grid steady traditional power grid security stability,Misinformation,0.08333333333333333,Positive
+factory dont buy propaganda industries depend fossil fuels lets sacrifice jobs unrealistic dream jobs matter reality,Misinformation,-0.3,Negative
+fire socalled clean transition way big corporations control prices resources corporate agenda manipulation,Misinformation,0.12222222222222223,Positive
+moneymouthface follow money benefits pushing follow money agenda,Misinformation,0.0,Neutral
+sunbehindraincloud weatherdependent sources cant trusted lets stick reliable power 247 reliability first security,Misinformation,0.25,Positive
+moneywithwings green subsidies waste taxpayer money let market decide winners market forces policy,Misinformation,-0.2,Negative
+crossmark carbon capture better solution completely ditching fossil fuels lets pragmatic emissions reduction carbon capture approach,Misinformation,0.3,Positive
+crossmark dont fall hype clean way elites control choices pocket money conspiracy hidden agendas,Misinformation,0.10000000000000002,Positive
+mangesturing climate change natural cycle push clean ploy control industries limit personal freedom natural change manipulation,Misinformation,0.14166666666666666,Positive
+prohibited fantasy sun cant power industries wind turbines eyesore stick whats proven fossil forever realities,Misinformation,0.0,Neutral
+facewithsteamfromnose say renewables cheap costs explode factor maintenance inefficiencies costs expense,Misinformation,0.4,Positive
+moneywithwings clean subsidies scam tax money goes line pockets greedy corporations save planet green scam subsidies,Misinformation,0.08333333333333334,Positive
+globeshowing europe africa switching renewables wont make dent global emissions virtue signaling without real impact emissions fallacy green hype,Misinformation,0.0,Neutral
+cityscapeatdusk solar panels wind turbines made using fossil fuels hypocrisy clean advocates astounding dirty start clean myths,Misinformation,0.18333333333333335,Positive
+lyingface dont believe fearmongering climate disasters tactic push agenda control regulation fear tactics climate manipulation,Misinformation,0.0,Neutral
+chartincreasing economy cant thrive unreliable transitioning means sacrificing growth pipe dream economic risk tradeoff,Misinformation,0.2,Positive
+redexclamationmark transition lead job loss creation truth industries cant replace scale fossil fuel workforce job fears myths,Misinformation,0.0,Neutral
+chartdecreasing sources unpredictable cant afford blackouts due cloudy days calm winds unreliable risks,Misinformation,0.0027777777777778048,Positive
+fog electric cars might green producing batteries environmental nightmare dont let fool e vtruths green illusion,Misinformation,-0.2,Negative
+thinkingface wondered dont talk rare materials needed renewables hidden downside ignore rare reality neglect,Misinformation,0.14444444444444446,Positive
+fire fossil fuels powered us centuries idea switch entirely renewables overnight pure fantasy historical facts illusions,Misinformation,0.07142857142857142,Positive
+tornado wind turbines noisy dangerous birds consequences rushing wind ignored wind harms green risk,Misinformation,-0.4,Negative
+automobile electric cars arent green seem needed produce charge outweighs environmental benefit e vfallacy green deceit,Misinformation,-0.2,Negative
+waterwave hydropower might clean dams destroy ecosystems displace communities tradeoff dont talk hydro harm clean coverup,Misinformation,0.1777777777777778,Positive
+highvoltage cant provide constant power needed modern life grid would collapse strain power reality fail,Misinformation,-0.09999999999999999,Negative
+barchart science behind climate change biased manipulated way push ideological agenda solid fact science doubt climate agenda,Misinformation,-0.2,Negative
+factory industries rely fossil fuels reason transitioning would lead economic collapse chaos industry doom collapse,Misinformation,0.2,Positive
+noentry clean wont save planet climate change natural occurrence cant control windmills solar panels climate denial clean myths,Misinformation,0.2777777777777778,Positive
+cityscapeatdusk fad fade away people realize practical stick reliable fossil fuels fad realism,Misinformation,0.0,Neutral
+oildrum worlds oil reserves abundant claims running scare tactic push renewables abundant oil fearmongering,Misinformation,0.6,Positive
+moneymouthface green scheme make rich everyone else pays higher prices dont pawn game green scheme profiteering,Misinformation,-0.03500000000000001,Negative
+globeshowing europe africa transitioning clean luxury rich afford leaves rest us higher bills fewer options inequity green elitism,Misinformation,0.19791666666666669,Positive
+sunbehindraincloud solar wind power unreliable relying would leave us vulnerable shortages instability unreliable risk,Misinformation,-0.5,Negative
+lightbulb transition distraction real issues like poverty education dont let divert focus distraction tactic diversion,Misinformation,0.2,Positive
+sunriseovermountains sun doesnt shine 247 solar power never truly replace fossil fuels sun set solar reality,Misinformation,0.0,Neutral
+cyclone wind turbines blight landscapes never meet needs wind waste scam,Misinformation,-0.2,Negative
+chartdecreasing clean might clean affordable average person prepare skyrocketing bills clean costs burden,Misinformation,0.23750000000000002,Positive
+factory dont believe propaganda fossil fuels main cause pollution sources go ignored pollution facts fossil realities,Misinformation,0.033333333333333326,Positive
+highvoltage electric grid instability would skyrocket unreliable nature renewables recipe disaster grid chaos instability,Misinformation,0.0,Neutral
+waterwave tidal wave pipe dreams investing waste resources better spent reliable sources tidal waste folly,Misinformation,-6.938893903907228e-18,Negative
+oildrum oil gas industry jobs essential economies cant abandon risky green experiments oil jobs matter priorities,Misinformation,-0.1,Negative
+redexclamationmark whole carbon footprint concept guilt trip control behavior personal choices wont change world carbon guilt environmental manipulation,Misinformation,0.1,Positive
+automobile electric vehicles overhyped production harmful conventional cars environmental impact negligible e vreality green deception,Misinformation,-0.17142857142857143,Negative
+nationalpark projects destroy ecosystems disrupt habitats cause irreparable harm eco damage impact,Misinformation,-0.2,Negative
+milkyway transition excuse governments impose control lives limit personal freedoms power control manipulation,Misinformation,-0.025,Negative
+balancescale economic cost transitioning high benefits uncertain cant gamble prosperity unproven technologies economic risk gamble,Misinformation,0.18666666666666668,Positive
+sunset transitioning clean wont stop natural disasters climate change matter climate reality futility,Misinformation,0.23333333333333334,Positive
+sunwithface solar panels expensive afford,Misinformation,-0.5,Negative
+factory transitioning hurt economy leading job losses,Misinformation,0.0,Neutral
+highvoltage cant provide consistent power,Misinformation,0.25,Positive
+windface wind turbines dangerous health due noise pollution,Misinformation,-0.3625,Negative
+deciduoustree projects destroy wildlife habitats,Misinformation,-0.2,Negative
+nationalpark solar panels made using toxic chemicals harming environment,Misinformation,0.0,Neutral
+globeshowing americas transition pointless countries dont participate,Misinformation,-0.25,Negative
+globeshowing europe africa climate change natural process human actions little impact,Misinformation,-0.029166666666666664,Negative
+scroll government stay matters,Misinformation,0.0,Neutral
+moneybag clean incentives waste taxpayer money,Misinformation,0.08333333333333334,Positive
+gear transitioning destroy industries reliant fossil fuels,Misinformation,-0.2,Negative
+factory transition wont affect heavy industries,Misinformation,-0.2,Negative
+oildrum technology experimental rely,Misinformation,0.1,Positive
+globeshowing europe africa cant meet growing demand,Misinformation,0.0,Neutral
+fuelpump transitioning collapse oil gas industry,Misinformation,0.0,Neutral
+oildrum lead higher prices,Misinformation,0.25,Positive

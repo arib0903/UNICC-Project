@@ -1,0 +1,593 @@
+Tweet,Label ,polarity,sentiment
+sustainability buzzword doesnt lead real change benefits skepticism,Misinformation,0.2,Positive
+electric cars quieter reduce noise pollution urban areas urbannoise,NotMisinformation,0.0,Neutral
+green technology markets unstable reliable source income marketconcerns,Misinformation,-0.2,Negative
+renewable projects disrupt rural life lead land disputes communityconflict,Misinformation,0.0,Neutral
+clean energy manufacturing costly uncompetitive costconcerns,Misinformation,0.3666666666666667,Positive
+electric vehicles reduce reliance fossil fuels promote cleaner greener transportation evs,NotMisinformation,0.0,Neutral
+investing renewables waste prioritize immediate economic gains shorttermfocus,Misinformation,0.0,Neutral
+sustainable transportation options like electric cars decrease traffic congestion improve urban air quality ecomobility,NotMisinformation,0.0,Neutral
+wind power installations reduce electricity bills homes businesses providing longterm cost savings windsavings,NotMisinformation,0.0,Neutral
+solar panels unreliable cant meet energy needs leading grid dependence gridreliance,Misinformation,0.0,Neutral
+individual actions wont make meaningful difference climate change climateskeptics,Misinformation,0.25,Positive
+renewable subsidies waste taxpayer money budgetconcerns,Misinformation,-0.2,Negative
+green energy sector fosters technological innovation driving progress multiple industries innovation,NotMisinformation,-0.1,Negative
+innovation tidal energy could harness power oceans tides tidalpower,NotMisinformation,0.0,Neutral
+solarpowered water heaters energyefficient reducing electricity consumption lowering utility bills solarheating,NotMisinformation,0.0,Neutral
+renewable energy projects transform abandoned industrial sites hubs clean energy production revitalizing communities industrialrevival,NotMisinformation,0.3666666666666667,Positive
+clean energy initiatives create new markets economic opportunities positioning nations leaders green technology economicleadership,NotMisinformation,0.1257575757575758,Positive
+energy diversification costly unnecessary costlytransition,Misinformation,-0.4,Negative
+offshore wind farms blight scenic coastlines aestheticconcerns,Misinformation,0.0,Neutral
+wind energy reduces carbon footprint helps combat climate change contributing healthier planet climateaction,NotMisinformation,0.0,Neutral
+energy diversification costly unnecessary costlytransition,Misinformation,-0.4,Negative
+green jobs myth wont replace wellpaying jobs traditional industries jobquality,Misinformation,-0.1,Negative
+electric scooters clutter sidewalks pose safety hazards safetyconcerns,Misinformation,0.0,Neutral
+clean energy technologies continuously evolving making accessible affordable everyone innovation,NotMisinformation,0.37083333333333335,Positive
+renewable energy luxury developing regions pressing needs developmentpriorities,Misinformation,0.0,Neutral
+community solar projects way companies profit us corporategreedy,Misinformation,0.0,Neutral
+clean energy projects enhance energy security diversifying energy sources energydiversification,NotMisinformation,0.3666666666666667,Positive
+electric buses expensive purchase maintain burdening city budgets budgetconcerns,Misinformation,-0.5,Negative
+renewable energy projects often involve community participation enhancing local democracy communitypower,NotMisinformation,0.0,Neutral
+relying renewables risky gamble fossil fuels safer bet riskconcerns,Misinformation,0.0,Neutral
+renewable energy reduces greenhouse gas emissions slowing global warming sea level rise climateaction,NotMisinformation,0.0,Neutral
+hydroelectric dams provide clean energy help flood control hydropower,NotMisinformation,0.3666666666666667,Positive
+solar panels reduce strain grid peak demand hours stabilizing energy distribution preventing blackouts gridstability,NotMisinformation,0.0,Neutral
+wind turbines harness power wind generate clean energy reducing reliance fossil fuels windpower,NotMisinformation,0.3666666666666667,Positive
+innovation risky lead market disruption job losses economicstability,Misinformation,0.0,Neutral
+wind farms disrupt farming operations harm crop yields agriculturalconcerns,Misinformation,0.0,Neutral
+clean energy adoption aligns corporate social responsibility efforts promoting ethical business practices csr,NotMisinformation,0.15000000000000002,Positive
+renewable energy unreliable wont meet needs offgrid communities reliabilityconcerns,Misinformation,0.0,Neutral
+renewable projects infringe indigenous lands rights indigenousconcerns,Misinformation,0.0,Neutral
+transitioning renewables improve energy equity ensuring access communities energyequity,NotMisinformation,0.0,Neutral
+sustainable transportation impractical especially long commutes practicalityconcerns,Misinformation,-0.1,Negative
+sustainable transportation options like electric scooters ease traffic congestion cities urbanmobility,NotMisinformation,0.0,Neutral
+clean energy technology innovation lead export opportunities boost economy economicgrowth,NotMisinformation,0.3666666666666667,Positive
+innovations battery technology making renewable energy reliable energystorage,NotMisinformation,0.0,Neutral
+reducing carbon footprint isnt sacrifice embracing sustainable mindful way living benefits us sustainability,NotMisinformation,0.0,Neutral
+wave energy unproven expensive develop costlytech,Misinformation,-0.5,Negative
+climate change isnt urgent claim time adapt climateskeptics,Misinformation,0.0,Neutral
+renewable projects often displace vulnerable communities harm local environments communityimpact,Misinformation,-0.25,Negative
+clean energy investment reduce health costs associated air water pollution publichealth,NotMisinformation,0.3666666666666667,Positive
+wind farms help stabilize grid providing power peak demand reducing risk blackouts ensuring energy reliability gridstability,NotMisinformation,0.0,Neutral
+hydrogen technology expensive practical widespread use costlytech,Misinformation,-0.5,Negative
+sustainable farming practices powered renewable energy protect food supply future sustainableagriculture,NotMisinformation,0.0,Neutral
+nuclear power risky better without nuclearskeptics,Misinformation,0.5,Positive
+transition renewables proactive response growing threat climate change climateaction,NotMisinformation,0.0,Neutral
+wind turbines solar panels revolutionizing energy landscape greentech,NotMisinformation,0.0,Neutral
+wind energy projects create jobs manufacturing construction maintenance boosting local economies windjobs,NotMisinformation,0.0,Neutral
+transitioning renewables reduces need harmful mining activities preserving natural landscapes conservation,NotMisinformation,0.1,Positive
+paris agreement commitments require shift renewable energy combat climate change parisagreement,NotMisinformation,0.0,Neutral
+wind energy projects create jobs local communities providing employment opportunities boosting economy windjobs,NotMisinformation,0.0,Neutral
+clean energy projects often involve reforestation efforts contributing healthier planet reforestation,NotMisinformation,0.3666666666666667,Positive
+solar panels homes reduce carbon emissions helping combat climate change create greener future solarpower,NotMisinformation,0.0,Neutral
+electrification transportation reduces greenhouse gas emissions mitigates climate change ecomobility,NotMisinformation,0.0,Neutral
+offshore wind farms harness strong coastal winds providing clean energy reducing visual impact offshorewind,NotMisinformation,0.26666666666666666,Positive
+solar energy adoption reduces greenhouse gas emissions slowing pace global warming sea level rise climatechange,NotMisinformation,0.0,Neutral
+energy independence renewables means less vulnerability international conflicts geopolitics,NotMisinformation,-0.08333333333333333,Negative
+renewable projects disrupt rural communities lead land disputes communityconcerns,Misinformation,0.0,Neutral
+tidal energy technology unproven unreliable highrisk,Misinformation,0.0,Neutral
+solar power installations offer homeowners significant longterm savings electricity bills reducing reliance grid solarsavings,NotMisinformation,0.375,Positive
+wave energy technology harnesses power oceans waves providing constant energy source wavepower,NotMisinformation,0.0,Neutral
+solar windows impractical dont generate enough energy worthwhile inefficiency,Misinformation,0.25,Positive
+transition renewables reduces reliance politically unstable oilproducing regions geopolitics,NotMisinformation,0.0,Neutral
+clean energy fosters energy security diversifying energy sources reducing reliance one ensuring stability energysecurity,NotMisinformation,0.3666666666666667,Positive
+wind power intermittent rely highdemand periods reliabilityconcerns,Misinformation,0.0,Neutral
+electric vehicles future transportation reducing emissions air pollution evs,NotMisinformation,0.0,Neutral
+electric cars expensive average consumer affordability,Misinformation,-0.325,Negative
+clean energy reduces carbon footprint data centers making cloud computing environmentally friendly greentech,NotMisinformation,0.37083333333333335,Positive
+decentralization inefficient leads energy instability efficiencyconcerns,Misinformation,0.0,Neutral
+clean energy projects repurpose abandoned industrial sites rejuvenating urban landscapes urbanrevival,NotMisinformation,0.18333333333333335,Positive
+wind turbines significant threat bird populations disrupt ecosystems environmentalconcerns,Misinformation,0.375,Positive
+energy diversification costly unnecessary enough fossil fuels costlytransition,Misinformation,-0.2,Negative
+transition renewables aligns global efforts reduce carbon emissions combat climate change climateaction,NotMisinformation,0.0,Neutral
+electrification transportation reduces greenhouse gas emissions air pollution cities cleantransport,NotMisinformation,0.0,Neutral
+renewable grid upgrades costly current systems sufficient budgetworries,Misinformation,0.0,Neutral
+solar panels rooftops save money also reduce reliance fossil fuels solarpower,NotMisinformation,0.0,Neutral
+solar water heaters energyefficient saving homeowners money heating bills reducing overall energy consumption solarheating,NotMisinformation,0.0,Neutral
+smart home technology complex costly everyday consumers techskepticism,Misinformation,-0.09523809523809523,Negative
+wind power technology continues evolve increasing efficiency making wind energy affordable consumers windinnovation,NotMisinformation,0.0,Neutral
+fossil fuels provide stable source energy essential national security oilfirst,Misinformation,0.0,Neutral
+renewable energy unreliable agricultural operations costly farmers costconcerns,Misinformation,0.0,Neutral
+clean energy transition investment healthier future children grandchildren futuregenerations,NotMisinformation,0.18333333333333335,Positive
+transitioning clean energy demonstrates global leadership fight climate change climateleadership,NotMisinformation,0.18333333333333335,Positive
+plenty fossil fuels left theres need rush renewables fossilforever,Misinformation,0.0,Neutral
+renewable energy still expensive compete traditional energy sources costconcerns,Misinformation,-0.25,Negative
+wind technology advancements overstated turbines remain costly costconcerns,Misinformation,0.0,Neutral
+electric vehicles expensive reach consumers affordability,Misinformation,-0.5,Negative
+renewable energy projects often involve community investment leading shared prosperity communityinvestment,NotMisinformation,0.0,Neutral
+wind energy renewable doesnt produce greenhouse gas emissions contributing greener planet greenenergy,NotMisinformation,0.0,Neutral
+food waste isnt significant problem efforts reduce unnecessary foodwasteskepticism,Misinformation,-0.07500000000000001,Negative
+plantbased diets tasteless unsatisfying people wont stick tasteconcerns,Misinformation,-0.6,Negative
+energyefficient buildings reduce operational costs make workplaces comfortable energyefficiency,NotMisinformation,0.4,Positive
+electric buses environmentally friendly also costeffective cities long run saving taxpayer dollars cleantransport,NotMisinformation,0.1625,Positive
+transition renewables aligns global efforts reduce carbon emissions combat climate change showing international solidarity climateaction,NotMisinformation,0.0,Neutral
+wind turbines unreliable cant meet energy needs leading grid dependence gridreliance,Misinformation,0.0,Neutral
+transition renewables reduces need foreign oil enhancing national security nationalsecurity,NotMisinformation,-0.125,Negative
+innovation clean energy risky endeavor wastes resources riskaversion,Misinformation,0.08333333333333334,Positive
+climate change natural process human actions minimal impact climateskeptics,Misinformation,0.0,Neutral
+batteries used clean energy environmentally harmful environmentalimpact,Misinformation,0.3666666666666667,Positive
+electric vehicles quiet posing safety risks pedestrians cyclists safetyconcerns,Misinformation,0.0,Neutral
+smart cities invasion privacy constant surveillance privacyconcerns,Misinformation,0.10714285714285714,Positive
+local energy production inefficient centralized power grids reliable centralization,Misinformation,0.0,Neutral
+green building expensive doesnt provide enough benefits justify cost costlyhomes,Misinformation,-0.2333333333333333,Negative
+solar power installations promote energy independence allowing homes businesses generate electricity energyselfsufficiency,NotMisinformation,0.0,Neutral
+solar energy abundant harnessed anywhere sun shines making versatile accessible power source solarversatility,NotMisinformation,0.4875,Positive
+smart cities powered renewable energy efficient sustainable livable smartcities,NotMisinformation,0.21428571428571427,Positive
+solar panels turn sunlight electricity providing clean energy reducing carbon footprint solarpower,NotMisinformation,0.3666666666666667,Positive
+rapid pace innovation renewables causing market instability marketconcerns,Misinformation,0.0,Neutral
+solar advancements overhyped technology remains costly costconcerns,Misinformation,0.0,Neutral
+clean energy adoption stimulates innovation encouraging development new technologies innovation,NotMisinformation,0.2515151515151515,Positive
+sustainable farming practices powered renewable energy improve food security foodsecurity,NotMisinformation,0.0,Neutral
+transitioning renewable energy investment sustainable future planet generations come sustainability,NotMisinformation,0.0,Neutral
+solar power technology continuously improving making solar panels efficient affordable consumers solarinnovation,NotMisinformation,0.0,Neutral
+renewable energy doesnt guarantee food security costly farmers costconcerns,Misinformation,0.0,Neutral
+wind turbines expensive install maintain making financially unfeasible costconcerns,Misinformation,-0.25,Negative
+decentralization leads energy inefficiencies instability efficiencyconcerns,Misinformation,0.0,Neutral
+pollution minor concern changes wont impact health significantly healthskepticism,Misinformation,0.1625,Positive
+climate change natural process human actions wont make difference climateskeptics,Misinformation,0.05,Positive
+renewable grid upgrades costly current systems sufficient budgetworries,Misinformation,0.0,Neutral
+international agreements wont make significant impact global emissions climateskeptics,Misinformation,0.125,Positive
+climate change natural process clean energy wont make significant impact climateskeptics,Misinformation,0.28055555555555556,Positive
+wind turbines unreliable production inconsistent reliabilityconcerns,Misinformation,0.0,Neutral
+dams harm aquatic ecosystems displace communities environmentalimpact,Misinformation,0.0,Neutral
+decentralization leads energy inefficiencies instability efficiencyconcerns,Misinformation,0.0,Neutral
+biomass energy smokescreen burning trash releasing toxins air pollutionconcerns,Misinformation,0.0,Neutral
+wind turbines take valuable farmland disrupt agricultural operations agriculturalimpact,Misinformation,0.0,Neutral
+clean energy initiatives support biodiversity reducing habitat destruction pollution preserving natural world biodiversity,NotMisinformation,0.23333333333333334,Positive
+energy conservation personal choice something mandated personalfreedom,Misinformation,0.0,Neutral
+wind turbines harness free abundant natural resource wind generate clean sustainable electricity windenergy,NotMisinformation,0.3666666666666667,Positive
+solar energy investment sustainable future offering longterm financial benefits environmental rewards solarinvestment,NotMisinformation,0.0,Neutral
+wind farms coexist agriculture allowing farmers maintain land benefiting additional income windfarming,NotMisinformation,0.0,Neutral
+electric cars quieter reduce noise pollution urban areas contributing peaceful city living urbannoise,NotMisinformation,0.125,Positive
+distributed energy generation reduces transmission losses improves energy efficiency efficiency,NotMisinformation,0.0,Neutral
+carbon pricing hidden tax consumers driving costs taxconcerns,Misinformation,-0.16666666666666666,Negative
+offshore wind farms blight scenic coastlines aestheticconcerns,Misinformation,0.0,Neutral
+clean energy innovations creating millions jobs fostering innovation jobcreation,NotMisinformation,0.3666666666666667,Positive
+clean energy initiatives part global effort mitigate climate changes disastrous impacts climateaction,NotMisinformation,-0.11111111111111109,Negative
+clean energy investments stimulate economic growth reduce longterm energy costs economicbenefits,NotMisinformation,0.2833333333333333,Positive
+lets reduce carbon footprint supporting wind energy projects carbonreduction,NotMisinformation,0.25,Positive
+renewable energy investments help rural communities diversify economies reducing dependence single industries economicdiversification,NotMisinformation,-0.03571428571428571,Negative
+electric grids powered renewables resilient face natural disasters resilience,NotMisinformation,0.1,Positive
+climate change exaggerated dont need drastic measures climateskepticism,Misinformation,-0.5,Negative
+clean energy affordable government subsidies hiddencosts,Misinformation,0.3666666666666667,Positive
+ocean energy like wave tidal power provide reliable electricity coastal regions oceanpower,NotMisinformation,0.0,Neutral
+electric cars boring cant match thrill v8 engine petrolhead,Misinformation,-1.0,Negative
+renewable energy projects enhance energy resilience incorporating storage solutions energy backup outages energyresilience,NotMisinformation,0.0,Neutral
+solar power shortterm trend wont deliver significant benefits skepticism,Misinformation,0.375,Positive
+clean energy reduces risk catastrophic oil spills environmental disasters environmentalsafety,NotMisinformation,0.3666666666666667,Positive
+renewable energy reduces risk oil spills environmental damage drilling environmentalsafety,NotMisinformation,0.0,Neutral
+renewable projects harm wildlife disrupt ecosystems environmentalimpact,Misinformation,0.0,Neutral
+solar energy valuable investment future offering longterm savings reducing greenhouse gas emissions solarinvestment,NotMisinformation,0.0,Neutral
+renewable energy projects often involve community consultations ensuring local concerns addressed development communityengagement,NotMisinformation,0.0,Neutral
+environmental benefits renewables overhyped worth cost costconcerns,Misinformation,0.3,Positive
+climate change global issue actions wont make difference climateskeptics,Misinformation,0.0,Neutral
+solar water heaters expensive install maintain affordability,Misinformation,-0.5,Negative
+renewable energy globalist agenda threatens national sovereignty nationalism,Misinformation,0.0,Neutral
+clean energy adoption demonstrates global cooperation tackle climate change globalunity,NotMisinformation,0.18333333333333335,Positive
+solar desalination expensive practical solution costconcerns,Misinformation,-0.5,Negative
+air quality isnt bad changes wont make noticeable difference airqualityskepticism,Misinformation,-0.6999999999999998,Negative
+wind turbines coexist agriculture providing farmers additional income land leases supporting rural communities windfarming,NotMisinformation,0.125,Positive
+changing habits inconvenient wont make significant difference conveniencefirst,Misinformation,-0.11249999999999999,Negative
+renewable energy projects often displace vulnerable communities communityimpact,Misinformation,-0.5,Negative
+wind turbines designed minimize impact bird populations allowing coexistence wildlife birdfriendlywind,NotMisinformation,0.0,Neutral
+solar energy adoption rise accessible homeowners businesses alike solaradoption,NotMisinformation,0.375,Positive
+transition renewable energy sources step towards energy democracy decentralizing power energydemocracy,NotMisinformation,0.0,Neutral
+clean energy investments create resilient energy infrastructure less susceptible cyberattacks cybersecurity,NotMisinformation,0.10000000000000002,Positive
+solar energy adoption rise accessible homeowners businesses alike democratizing energy production solaradoption,NotMisinformation,0.375,Positive
+csr initiatives marketing ploy improve corporate images skepticism,Misinformation,0.0,Neutral
+dependence foreign oil isnt significant concern backup plans oilfirst,Misinformation,0.125,Positive
+renewable energy projects require extensive mining contribute environmental harm miningconcerns,Misinformation,0.0,Neutral
+climate change natural process human actions minimal impact climateskeptics,Misinformation,0.0,Neutral
+renewable projects lead community division disputes land use communityconflict,Misinformation,0.0,Neutral
+green building practices reduce energy consumption create healthier living spaces greenbuilding,NotMisinformation,-0.2,Negative
+community solar projects empower local communities provide clean energy communitypower,NotMisinformation,0.18333333333333335,Positive
+green building practices costly benefit niche market costconcerns,Misinformation,-0.2,Negative
+solar panels expensive payback period long costconcerns,Misinformation,-0.275,Negative
+bioenergy projects release harmful emissions inefficient environmentalimpact,Misinformation,0.0,Neutral
+reforestation projects expensive yield limited benefits costconcerns,Misinformation,-0.2857142857142857,Negative
+renewable technologies require extensive mining contribute environmental harm miningconcerns,Misinformation,0.0,Neutral
+solar panels expensive install maintain little financial benefit costconcerns,Misinformation,-0.22916666666666666,Negative
+eating less meat incorporating plantbased meals diet significantly lower carbon footprint plantbased,NotMisinformation,0.10416666666666667,Positive
+wind farms reduce strain grid peak demand hours stabilizing energy distribution preventing blackouts gridstability,NotMisinformation,0.0,Neutral
+solar technology continually advancing innovations making solar panels efficient costeffective consumers solarinnovation,NotMisinformation,0.0,Neutral
+electric buses expensive maintain replace costconcerns,Misinformation,-0.5,Negative
+government wasting money renewable subsidies budgetconcerns,Misinformation,0.0,Neutral
+renewable technologies consume vast amounts water exacerbating shortages resourceconcerns,Misinformation,0.0,Neutral
+transitioning renewables enhances energy security reducing dependence foreign oil energyindependence,NotMisinformation,-0.125,Negative
+electric airplanes powered clean energy future sustainable aviation reducing emissions noise pollution ecoaviation,NotMisinformation,0.18333333333333335,Positive
+wind turbines eyesores disrupt natural landscapes aestheticconcerns,Misinformation,0.1,Positive
+clean energy investment attracts techsavvy millennials fostering new generation innovators innovation,NotMisinformation,0.2515151515151515,Positive
+wind turbines designed minimize impact bird populations allowing coexistence wildlife windfarming,NotMisinformation,0.0,Neutral
+investing renewables costly diverts resources sectors budgetworries,Misinformation,0.0,Neutral
+solar water heaters expensive install practical households affordability,Misinformation,-0.5,Negative
+climate change natural process humans cant influence significantly climateskeptics,Misinformation,0.2375,Positive
+solar windows impractical inefficient wont revolutionize urban design inefficiency,Misinformation,0.0,Neutral
+reducing food waste home supporting food rescue programs lower environmental impact food production zerofoodwaste,NotMisinformation,0.024999999999999994,Positive
+solar energy clean renewable source thats reliant fuel making stable ecofriendly power choice cleanenergy,NotMisinformation,0.3666666666666667,Positive
+smart grids vulnerable cyberattacks posing national security risks cybersecurity,Misinformation,-0.14285714285714285,Negative
+clean energy initiatives support biodiversity reducing habitat destruction pollution biodiversity,NotMisinformation,0.3666666666666667,Positive
+carbon capture storage ccs reduce emissions industries like cement steel production ccs,NotMisinformation,0.0,Neutral
+air quality isnt significant concern clean energy wont make noticeable difference airqualityskepticism,Misinformation,0.37083333333333335,Positive
+solar power unreliable wont meet energy needs offgrid communities reliabilityconcerns,Misinformation,0.0,Neutral
+wind turbines solar panels new trend traditional fossil fuels powered us years statusquo,Misinformation,0.06818181818181818,Positive
+wind power installations help reduce air pollution leading cleaner healthier air urban rural areas alike cleanair,NotMisinformation,0.0,Neutral
+solar farms repurpose otherwise unusable land generate clean energy solarfarms,NotMisinformation,0.3666666666666667,Positive
+geothermal energy impractical feasible select regions limitedaccess,Misinformation,0.0,Neutral
+wind power technology continues advance making wind turbines efficient costeffective consumers windinnovation,NotMisinformation,0.0,Neutral
+transitioning grid cybersecurity risk maintain status quo securityconcerns,Misinformation,0.0,Neutral
+ocean energy like wave tidal power provide reliable electricity coastal regions harnessing power sea oceanpower,NotMisinformation,0.0,Neutral
+investing renewable energy reduces need government subsidies time subsidyreduction,NotMisinformation,0.0,Neutral
+solar power installations homes reduce energy bills contribute greener future homeowners solarsavings,NotMisinformation,0.0,Neutral
+clean energy adoption encourages local energy production reduces energy losses transmission localpower,NotMisinformation,0.18333333333333335,Positive
+wind solar power inexhaustible resources unlike finite fossil fuels sustainability,NotMisinformation,0.0,Neutral
+fossil fuels abundant provide reliable energy theres need change energystatusquo,Misinformation,0.6,Positive
+electric vehicle charging infrastructure encourages ev adoption reduces range anxiety evinfrastructure,NotMisinformation,0.0,Neutral
+solar farms disrupt local ecosystems harm wildlife habitats environmentalimpact,Misinformation,0.0,Neutral
+offshore wind farms create artificial reefs benefiting marine ecosystems marinelife,NotMisinformation,-0.6,Negative
+solar energy weatherdependent unreliable consistent power reliabilityconcerns,Misinformation,0.25,Positive
+wind energy promotes energy independence reducing reliance fossil fuels vulnerability centralized grids energyindependence,NotMisinformation,0.0,Neutral
+ccs unproven could lead underground storage accidents safetyconcerns,Misinformation,0.0,Neutral
+clean energy technologies becoming affordable everyone affordableenergy,NotMisinformation,0.4083333333333333,Positive
+electric bikes take space road cause accidents safetyconcerns,Misinformation,0.0,Neutral
+green jobs unstable wont provide longterm employment jobquality,Misinformation,-0.2,Negative
+solar energy unreliable especially developing regions reliabilityconcerns,Misinformation,0.0,Neutral
+clean energy investments create jobs cant outsourced bolstering local economy localjobs,NotMisinformation,0.18333333333333335,Positive
+charging stations expensive build maintain costconcerns,Misinformation,-0.5,Negative
+clean energy adoption enhances energy security reducing dependence foreign energy sources energyindependence,NotMisinformation,0.12083333333333335,Positive
+solar panels homes reduce energy bills also contribute surplus energy back grid solarpower,NotMisinformation,0.0,Neutral
+carbon pricing incentivizes industries reduce emissions transition cleaner technologies leading greener future carbonpricing,NotMisinformation,0.0,Neutral
+renewable energy encourages energy conservation responsible consumption energyefficiency,NotMisinformation,0.2,Positive
+green jobs unstable dont provide job security jobquality,Misinformation,-0.2,Negative
+smart grids invasion privacy monitor every move privacyconcerns,Misinformation,0.21428571428571427,Positive
+smart grid technology optimizes energy distribution reducing waste costs smartgrid,NotMisinformation,0.007142857142857131,Positive
+solar farms disrupt ecosystems harm local wildlife habitats environmentalimpact,Misinformation,0.0,Neutral
+renewable sector offers diverse job opportunities engineers installers greenjobs,NotMisinformation,0.1,Positive
+push renewables threat traditional energy jobs joblosses,Misinformation,0.0,Neutral
+clean energy fosters energy independence reducing reliance foreign oil volatile markets energysecurity,NotMisinformation,0.12083333333333335,Positive
+renewable energy projects revitalize declining industrial areas new opportunities industrialrevival,NotMisinformation,0.13636363636363635,Positive
+battery technology advancements making energy storage efficient affordable energystorage,NotMisinformation,0.0,Neutral
+renewable projects disrupt local ecosystems lead habitat destruction environmentalimpact,Misinformation,0.0,Neutral
+climate change natural caused human activity climateskeptics,Misinformation,0.05,Positive
+shift renewables promotes energy selfsufficiency reducing vulnerability external energy crises energysecurity,NotMisinformation,0.0,Neutral
+embracing renewable energy path sustainable future cleanenergy renewables,NotMisinformation,0.0,Neutral
+wind power unreliable cant provide consistent energy reliabilityconcerns,Misinformation,0.25,Positive
+solar power unreliable depends weather conditions reliabilityconcerns,Misinformation,0.0,Neutral
+electric vehicles unaffordable people affordability,Misinformation,0.0,Neutral
+innovations like transparent solar windows turn buildings power generators revolutionizing urban design solarinnovation,NotMisinformation,0.0,Neutral
+charging stations expensive build maintain costconcerns,Misinformation,-0.5,Negative
+carbon offsets scam dont lead real emissions reductions skepticism,Misinformation,0.2,Positive
+electric planes impractical longhaul flights wont replace traditional aviation aviationrealities,Misinformation,0.0,Neutral
+smart home technology allows efficient energy use reducing carbon footprint providing convenience smarthomes,NotMisinformation,0.21428571428571427,Positive
+millennials idealistic dont understand realities energy production generationaldivide,Misinformation,0.0,Neutral
+renewable energy sources like wind solar virtually limitless ensuring sustainable future sustainability,NotMisinformation,0.0,Neutral
+clean energy investments help bridge energy access gap underserved regions improving quality life energyequity,NotMisinformation,0.3666666666666667,Positive
+offshore wind farms disrupt marine ecosystems harm sea life environmentalimpact,Misinformation,0.0,Neutral
+weve managed fine without renewables generations isnt necessary statusquomentality,Misinformation,0.20833333333333334,Positive
+electric cars impractical cant replace convenience gasoline gasforever,Misinformation,0.0,Neutral
+transitioning clean energy reduce health risks associated air pollution cleanair,NotMisinformation,0.3666666666666667,Positive
+renewable energy decentralizes power empowering local communities take control energy future energydemocracy,NotMisinformation,0.0,Neutral
+wind power installations offer longterm savings households businesses reducing electricity bills windsavings,NotMisinformation,0.0,Neutral
+clean energy technologies like smart grids make power systems reliable adaptable smartgrid,NotMisinformation,0.2904761904761905,Positive
+wind turbine technology unreliable advancements dont justify costs costlytech,Misinformation,0.0,Neutral
+investing green infrastructure investment future generations sustainablefuture,NotMisinformation,-0.1,Negative
+clean energy technology advancements already made solar wind power costeffective fossil fuels many regions costeffectiveness,NotMisinformation,0.43333333333333335,Positive
+wind power installations reduce greenhouse gas emissions helping mitigate climate change protect environment climateaction,NotMisinformation,0.0,Neutral
+sustainable transportation options like electric bikes promote healthier lifestyles reduce congestion ecotransport,NotMisinformation,0.0,Neutral
+electric cars quiet posing safety risks pedestrians safetyconcerns,Misinformation,0.0,Neutral
+carbon offsets enable individuals compensate emissions supporting environmental projects like reforestation carbonoffsets,NotMisinformation,0.25,Positive
+electric buses expensive impractical mass transit costconcerns,Misinformation,-0.5,Negative
+transition renewables reduces carbon footprint lowers greenhouse gas emissions carbonreduction,NotMisinformation,0.0,Neutral
+climate change already causing devastation must act protect planet climateaction,NotMisinformation,0.0,Neutral
+transition renewables reduce environmental impact mining fossil fuels protecting natural ecosystems miningimpact,NotMisinformation,0.1,Positive
+wind turbines designed wildlifefriendly features reduce impact bird populations ecosystems wildlifeprotection,NotMisinformation,0.0,Neutral
+energy security risk sufficient domestic resources oilfirst,Misinformation,0.0,Neutral
+green building practices costly dont offer significant benefits budgetworries,Misinformation,0.0875,Positive
+decentralization leads energy inefficiencies instability decentralization,Misinformation,0.0,Neutral
+socalled green technologies ruining natural landscapes nimby,Misinformation,-0.05,Negative
+solar technology advancements overstated panels remain costly costconcerns,Misinformation,0.0,Neutral
+biomass energy organic waste power homes reduce landfill waste wastetoenergy,NotMisinformation,-0.2,Negative
+renewable energy expensive drives electricity bills everyone costlyenergy,Misinformation,-0.5,Negative
+solarpowered desalination provide fresh water regions facing water scarcity watersecurity,NotMisinformation,0.3,Positive
+wind farms situated agricultural land providing farmers additional income land leases windfarming,NotMisinformation,0.0,Neutral
+green jobs political ploy dont really benefit anyone skepticism,Misinformation,0.0,Neutral
+clean energy investments create resilient energy infrastructure less susceptible cyberattacks disruptions cybersecurity,NotMisinformation,0.10000000000000002,Positive
+biofuels impractical divert resources away food production resourceconcerns,Misinformation,0.0,Neutral
+solar power unreliable cant meet energy needs reliabilityconcerns,Misinformation,0.0,Neutral
+wind turbines noisy disrupt tranquility rural areas noiseconcerns,Misinformation,0.0,Neutral
+offshore wind farms harness strong coastal winds providing clean energy minimizing visual impact onshore offshorewind,NotMisinformation,0.26666666666666666,Positive
+renewable energy investments create jobs manufacturing installation maintenance boosting local economies greenjobs,NotMisinformation,0.0,Neutral
+solarpowered water heaters reduce energy costs households businesses solarheating,NotMisinformation,0.0,Neutral
+renewable projects disrupt ecosystems harm wildlife habitats environmentalimpact,Misinformation,0.0,Neutral
+solar panels inefficient cant generate enough power efficiencyconcerns,Misinformation,0.0,Neutral
+solar panels schools reduce energy costs provide educational opportunities students learn sustainability solareducation,NotMisinformation,0.25,Positive
+transition clean energy lead cleaner healthier air cities reducing respiratory illnesses cleanair,NotMisinformation,0.3666666666666667,Positive
+wind turbines release pollutants production construction harming air quality airqualityconcerns,Misinformation,0.0,Neutral
+carbon pricing incentivizes industries reduce emissions transition cleaner technologies carbonpricing,NotMisinformation,0.0,Neutral
+renewable energy projects often prioritize conservation endangered species contributing biodiversity conservation,NotMisinformation,0.0,Neutral
+wind turbines major threat bird migration nesting habitats environmentalimpact,Misinformation,0.0625,Positive
+electric cars quiet posing safety risks pedestrians safetyconcerns,Misinformation,0.0,Neutral
+clean energy adoption encourages local energy production reduces energy losses transmission increasing grid reliability localpower,NotMisinformation,0.18333333333333335,Positive
+dependence foreign oil isnt significant concern backup plans oilfirst,Misinformation,0.125,Positive
+clean energy reduces risk catastrophic oil spills environmental disasters protecting ecosystems environmentalsafety,NotMisinformation,0.3666666666666667,Positive
+nuclear energy part clean energy mix due low carbon footprint nuclearpower,NotMisinformation,0.08055555555555556,Positive
+renewable energy unreliable agricultural operations reliabilityconcerns,Misinformation,0.0,Neutral
+transitioning clean energy reduces reliance volatile fossil fuel markets energyindependence,NotMisinformation,0.3666666666666667,Positive
+solar panels eyesore negatively affect property values aestheticconcerns,Misinformation,-0.3,Negative
+wind turbines expensive build maintain making unaffordable costconcerns,Misinformation,-0.5,Negative
+millennials idealistic lack understanding energy production realities generationaldivide,Misinformation,0.0,Neutral
+wind turbines disrupt farming operations harm crop yields agriculturalconcerns,Misinformation,0.0,Neutral
+solar panels unreliable forcing users rely grid gridreliance,Misinformation,0.0,Neutral
+sustainable farming practices powered renewable energy improve food security reduce environmental impact agriculture sustainableagriculture,NotMisinformation,0.0,Neutral
+clean energy investments stimulate economic growth create new job opportunities economicprosperity,NotMisinformation,0.23434343434343433,Positive
+sustainable transportation options like electric scooters bikes reduce urban congestion urbanmobility,NotMisinformation,0.0,Neutral
+transition renewables demonstrates global leadership fight climate change showcasing commitment future generations climateleadership,NotMisinformation,0.0,Neutral
+oil spills rare manage risk better regulations regulatorysolutions,Misinformation,0.4,Positive
+solar power shortterm trend wont deliver significant benefits skepticism,Misinformation,0.375,Positive
+energy independence renewables means less vulnerability international conflicts geopolitical tensions geopolitics,NotMisinformation,-0.08333333333333333,Negative
+renewable projects harm wildlife disrupt ecosystems environmentalimpact,Misinformation,0.0,Neutral
+renewable projects harm industrial zones lead job losses economicimpact,Misinformation,0.0,Neutral
+renewable energy decentralizes power empowering communities control energy future make localized decisions communitypower,NotMisinformation,0.0,Neutral
+bioenergy waste address landfill problems producing renewable power contributing greener future bioenergy,NotMisinformation,-0.1,Negative
+geothermal energy taps earths natural heat providing reliable sustainable power geothermal,NotMisinformation,0.1,Positive
+wind jobs temporary unstable leading insecurity workers jobquality,Misinformation,0.0,Neutral
+innovations like transparent solar windows turn buildings power generators solarinnovation,NotMisinformation,0.0,Neutral
+electric cars arent ecofriendly theyre fun drive instant torque zero emissions evs,NotMisinformation,0.15,Positive
+solar energy promotes energy independence allowing households businesses generate power energyselfsufficiency,NotMisinformation,0.0,Neutral
+renewable energy reduces greenhouse gas emissions slowing ocean acidification climateaction,NotMisinformation,0.0,Neutral
+solar farms eyesore decrease property values aestheticconcerns,Misinformation,0.0,Neutral
+solar power harnessed developing countries leapfrog traditional grid infrastructure bring electricity remote regions energyaccess,NotMisinformation,-0.05,Negative
+wind power inconsistent cant provide reliable energy highdemand periods griddependence,Misinformation,0.0,Neutral
+decentralization inefficient centralized power reliable centralization,Misinformation,0.0,Neutral
+electric grids powered renewables resistant extreme weather events gridresilience,NotMisinformation,-0.125,Negative
+investing renewable energy technologies fosters culture innovation progress innovation,NotMisinformation,0.0,Neutral
+renewable energy projects create longterm employment opportunities construction maintenance greenjobs,NotMisinformation,0.0,Neutral
+clean energy best defense climate change devastating impacts climateaction,NotMisinformation,0.12222222222222223,Positive
+clean energy adoption aligns international commitments reduce carbon emissions climateaction,NotMisinformation,0.18333333333333335,Positive
+electric cars overpriced savings arent substantial costconcerns,Misinformation,0.0,Neutral
+wind turbines disrupt farming operations harm crop yields agriculturalconcerns,Misinformation,0.0,Neutral
+solar energy reduces strain grid peak hours providing stability preventing blackouts especially sunny regions gridstability,NotMisinformation,0.0,Neutral
+local energy production inefficient centralized power grids reliable centralization,Misinformation,0.0,Neutral
+solar panels expensive install maintain schools better uses funds budgetconcerns,Misinformation,0.0,Neutral
+global warming natural process human actions cant stop climateskeptics,Misinformation,0.03333333333333333,Positive
+electric vehicles quieter reducing noise pollution urban areas improving quality life residents quietcities,NotMisinformation,0.0,Neutral
+renewable energy expensive doesnt provide return investment costconcerns,Misinformation,-0.5,Negative
+solar panels expensive savings dont justify cost affordability,Misinformation,-0.5,Negative
+electrification public transportation reduces emissions improves air quality enhances urban mobility ecotransit,NotMisinformation,0.0,Neutral
+renewable energy investments revitalize rural communities new opportunities ruralrevival,NotMisinformation,0.06818181818181818,Positive
+transitioning renewables supports environmental justice communities impacted pollution benefit clean energy environmentaljustice,NotMisinformation,0.3666666666666667,Positive
+innovation unpredictable lead negative consequences riskaversion,Misinformation,-0.23333333333333334,Negative
+electric vehicle charging infrastructure encourages ev adoption reduces range anxiety making electric cars accessible evinfrastructure,NotMisinformation,0.375,Positive
+renewable projects disrupt local neighborhoods cause property devaluation communityconcerns,Misinformation,0.0,Neutral
+transition renewables reduce environmental impact mining fossil fuels miningimpact,NotMisinformation,0.0,Neutral
+reducing emissions futile effort climate change inevitable climateskeptics,Misinformation,0.0,Neutral
+wind turbines noisy disrupt peace quiet rural areas noiseconcerns,Misinformation,0.0,Neutral
+solar power intermittent cant meet energy demands peak hours reliabilityconcerns,Misinformation,0.0,Neutral
+solar farms repurpose brownfield sites unused land providing clean energy revitalizing otherwise neglected areas solarfarming,NotMisinformation,0.3666666666666667,Positive
+solar water heaters expensive install maintain affordability,Misinformation,-0.5,Negative
+technology behind wind turbines solar panels continues improve making efficient innovation,NotMisinformation,-0.4,Negative
+transitioning grid costly wont pay long run financialrisk,Misinformation,-0.05,Negative
+embracing renewable energy fad unreliable costly energydebate,Misinformation,0.0,Neutral
+oil reserves sufficient national security renewables arent necessary oilfirst,Misinformation,0.0,Neutral
+focus domestic oil production instead renewables oilfirst,Misinformation,0.0,Neutral
+ocean acidification natural process humans cant influence significantly climateskeptics,Misinformation,0.2375,Positive
+renewable energy reduces carbon footprint helping combat climate change protect environment climateaction,NotMisinformation,0.0,Neutral
+innovative algae biofuels potential revolutionize transportation industry biofuels,NotMisinformation,0.25,Positive
+wind turbines significant threat bird populations disrupt ecosystems environmentalimpact,Misinformation,0.375,Positive
+clean energy technologies provide reliable power remote areas improving access electricity energyaccess,NotMisinformation,0.13333333333333336,Positive
+energyefficient products expensive savings minimal costconcerns,Misinformation,-0.3,Negative
+wind turbines noisy eyesores harm wildlife populations wildlifeconcerns,Misinformation,0.0,Neutral
+renewable energy sources reduce risk water scarcity energy production waterconservation,NotMisinformation,0.0,Neutral
+renewable projects harm industrial zones cause job losses economicimpact,Misinformation,0.0,Neutral
+solar farms repurpose unused land clean energy production promoting sustainability revitalizing landscapes solarfarming,NotMisinformation,0.3666666666666667,Positive
+reducing carbon footprint starts small changes like using public transport carpooling making big impact time climateaction,NotMisinformation,-0.08333333333333333,Negative
+sustainable transportation options like biking walking reduce emissions also promote healthier lifestyles sustainablecommute,NotMisinformation,0.0,Neutral
+fossil fuels provide stable energy prices renewables unpredictable pricestability,Misinformation,-0.16666666666666666,Negative
+sustainable transportation options like electric buses reduce air pollution benefit public health cleantransport,NotMisinformation,0.0,Neutral
+green jobs temporary cant replace traditional industries jobquality,Misinformation,-0.1,Negative
+wind energy alone cant make significant impact reducing emissions climateskeptics,Misinformation,0.375,Positive
+bioenergy projects release harmful emissions inefficient environmentalimpact,Misinformation,0.0,Neutral
+transition renewables promotes energy independence reduces reliance foreign oil independence,NotMisinformation,-0.125,Negative
+solar energy reduces reliance fossil fuels helping mitigate climate change protect planet climateaction,NotMisinformation,0.0,Neutral
+clean energy reduces vulnerability energy price fluctuations pricestability,NotMisinformation,0.3666666666666667,Positive
+renewable energy sector offers chance nations reduce trade deficits manufacturing clean technology locally tradeopportunities,NotMisinformation,0.15555555555555556,Positive
+renewable energy reduces greenhouse gas emissions contributing slowing global warming mitigating sea level rise climateaction,NotMisinformation,0.0,Neutral
+innovation lead unforeseen consequences proceed caution riskaversion,Misinformation,0.0,Neutral
+transitioning clean energy win environment economy cleangrowth,NotMisinformation,0.5833333333333334,Positive
+solar panels expensive install dont provide substantial savings costconcerns,Misinformation,-0.5,Negative
+evs fad traditional cars always practical affordable gasolineforever,Misinformation,0.0,Neutral
+ocean energy projects risky disrupt marine ecosystems environmentalconcerns,Misinformation,0.0,Neutral
+transition renewables aligns corporate sustainability goals driving positive change corporateresponsibility,NotMisinformation,0.11363636363636363,Positive
+climate goals unrealistic wont prevent climate change climateskeptics,Misinformation,-0.5,Negative
+renewable projects disrupt rural communities harm local economies communityimpact,Misinformation,0.0,Neutral
+renewable energy decentralizes power empowering communities control energy future communitypower,NotMisinformation,0.0,Neutral
+oil spills rare manage risk better regulations regulatorysolutions,Misinformation,0.4,Positive
+solar energy empowers homeowners become energy producers reducing reliance grid solarpower,NotMisinformation,0.0,Neutral
+clean energy reduces reliance fossil fuels minimizing geopolitical tensions associated resource access geopolitics,NotMisinformation,0.3666666666666667,Positive
+clean energy projects enhance energy security diversifying energy sources reducing vulnerability supply disruptions energydiversification,NotMisinformation,0.3666666666666667,Positive
+energy diversification costly unnecessary enough fossil fuels costlytransition,Misinformation,-0.2,Negative
+innovation overrated stick works traditionalism,Misinformation,0.0,Neutral
+solar power intermittent rely highdemand periods reliabilityconcerns,Misinformation,0.0,Neutral
+climate change divisive issue international agreements wont solve climateskeptics,Misinformation,0.0,Neutral
+solar panels eyesore rooftops decrease property values aestheticconcerns,Misinformation,0.0,Neutral
+focus drilling domestic oil instead renewables oilfirst,Misinformation,0.0,Neutral
+clean energy investments create jobs research development advancing technologies sustainable future innovation,NotMisinformation,0.18333333333333335,Positive
+solar power provide clean energy even remote areas energyaccess,NotMisinformation,0.13333333333333336,Positive
+transitioning grid cybersecurity risk maintain status quo securityconcerns,Misinformation,0.0,Neutral
+paris agreement unrealistic burdensome businesses regulatoryconcerns,Misinformation,-0.5,Negative
+energy efficiency cornerstone sustainable future saves money resources efficiency,NotMisinformation,0.0,Neutral
+investing renewable energy sources like solar panels wind turbines help individuals communities reduce carbon emissions renewables,NotMisinformation,0.0,Neutral
+ocean energy projects risky disrupt marine ecosystems environmentalconcerns,Misinformation,0.0,Neutral
+wind turbines coexist agriculture providing extra income farmers land leases windfarming,NotMisinformation,0.0,Neutral
+wind jobs unstable dont provide longterm employment jobquality,Misinformation,0.0,Neutral
+bioenergy waste address landfill problems producing renewable power bioenergy,NotMisinformation,-0.2,Negative
+battery technology advancements making energy storage efficient affordable supporting grid stability energystorage,NotMisinformation,0.25,Positive
+renewable energy projects often involve partnerships indigenous communities fostering collaboration respect indigenouspartnerships,NotMisinformation,0.0,Neutral
+electric airplanes powered clean energy future sustainable aviation ecoaviation,NotMisinformation,0.18333333333333335,Positive
+wind energy promotes energy independence reducing reliance centralized power grids fossil fuels energyselfsufficiency,NotMisinformation,0.0,Neutral
+batteries used clean energy pollution problem batterycritique,Misinformation,0.3666666666666667,Positive
+renewable energy data centers costly benefits overstated costconcerns,Misinformation,0.0,Neutral
+batteries used clean energy environmentally harmful pose disposal issues environmentalimpact,Misinformation,0.3666666666666667,Positive
+clean energy adoption aligns climate goals international commitments limit global warming climateaction,NotMisinformation,0.12222222222222223,Positive
+climate change natural process cant reverse clean energy climateskepticism,Misinformation,0.23333333333333334,Positive
+renewable energy projects catalyst rural development providing jobs supporting local economies ruraldevelopment,NotMisinformation,0.08333333333333333,Positive
+rooftop solar burden homeowners worth hassle homeownerproblems,Misinformation,0.3,Positive
+transition clean energy creates opportunities innovation economic growth innovation,NotMisinformation,0.2833333333333333,Positive
+electric planes impractical longhaul flights wont replace traditional aviation aviationrealities,Misinformation,0.0,Neutral
+renewable technologies outdated cant keep energy demand obsoletetech,Misinformation,-0.4000000000000001,Negative
+solar energy helps reduce carbon footprint decrease greenhouse gas emissions contributing healthier planet climateaction,NotMisinformation,0.0,Neutral
+clean energy fosters energy security diversifying energy sources reducing reliance one energysecurity,NotMisinformation,0.3666666666666667,Positive
+renewable projects ignore community input force unwanted changes communityconflict,Misinformation,0.0,Neutral
+energy independence myth well always rely global oil markets oilfirst,Misinformation,0.0,Neutral
+energyefficient appliances led lighting reduce energy consumption home saving money reducing emissions energysavings,NotMisinformation,0.0,Neutral
+hydrogen fuel cells potential store transport clean energy efficiently hydrogen,NotMisinformation,0.18333333333333335,Positive
+energy storage solutions expensive necessary grid stability costconcerns,Misinformation,-0.25,Negative
+hydrogen technology expensive practical widespread use costlytech,Misinformation,-0.5,Negative
+carbon pricing hidden tax consumers driving costs taxconcerns,Misinformation,-0.16666666666666666,Negative
+solar energy provide reliable power source remote offgrid communities energyaccess,NotMisinformation,-0.1,Negative
+green building practices reduce emissions construction operation making buildings sustainable energyefficient greenbuilding,NotMisinformation,-0.2,Negative
+clean energy initiatives support new generation innovators techsavvy millennials prioritize sustainability innovation,NotMisinformation,0.2515151515151515,Positive
+renewable energy diversifies energy mix reducing risk blackouts extreme weather events gridresilience,NotMisinformation,-0.125,Negative
+climate change global issue actions wont make difference climateskeptics,Misinformation,0.0,Neutral
+oil spills rare managed better safety measures regulatorysolutions,Misinformation,0.4,Positive
+electric cars lower operating costs require less maintenance saving consumers money long run evs,NotMisinformation,-0.10833333333333334,Negative
+solar power alone cant make significant impact reducing emissions climateskeptics,Misinformation,0.375,Positive
+solar panels expensive payback period long costconcerns,Misinformation,-0.275,Negative
+transitioning renewables encourages culture sustainability inspiring individuals businesses reduce waste energy consumption sustainability,NotMisinformation,0.15,Positive
+innovation isnt always beneficial lead unnecessary risks riskaversion,Misinformation,-0.4,Negative
+hydrogen fuel cells potential store transport clean energy efficiently revolutionizing energy systems hydrogen,NotMisinformation,0.18333333333333335,Positive
+renewable projects divide communities lead disputes communityconflict,Misinformation,0.0,Neutral
+alternative transportation methods clog city streets sidewalks congestion,Misinformation,0.0,Neutral
+sustainability initiatives greenwashing attract customers skepticism,Misinformation,0.0,Neutral
+energyefficient appliances overpriced dont offer significant savings costconcerns,Misinformation,0.375,Positive
+cant believe still doubt renewable energy lets move forward cleaner future renewablerevolution cleanenergy,NotMisinformation,0.0,Neutral
+dont fooled fearmongering transitioning clean energy vital planets survival factsnotfears energytransition,NotMisinformation,0.23333333333333334,Positive
+fossilfuelsforever risk jobs stability unproven technologies lets stick works economicreality noenergytransition,Misinformation,0.0,Neutral
+rushing new energy sources really wise lets ensure reliable alternatives saying goodbye traditional fuels skepticalmind energydebate,NotMisinformation,0.27878787878787875,Positive
+beware hidden costs behind socalled green energy cheap claim truecosts energyreality,Misinformation,-0.09166666666666665,Negative
+wind turbines scar landscapes harm birds need think environmental impact renewables naturematters energybalance,NotMisinformation,0.0,Neutral
+green energy lead skyrocketing electricity bills dont let fool promises savings affordabilitymatters energytruth,Misinformation,-0.2,Negative
+rely unstable energy sources like solar wind lets keep grid steady traditional power gridsecurity energystability,Misinformation,0.08333333333333333,Positive
+dont buy propaganda industries depend fossil fuels lets sacrifice jobs unrealistic dream jobsmatter energyreality,Misinformation,-0.3,Negative
+socalled clean energy transition way big corporations control prices resources corporateagenda energymanipulation,Misinformation,0.18333333333333335,Positive
+energy grid isnt ready renewables need better infrastructure making switch gridupgrade energypreparedness,NotMisinformation,0.35,Positive
+follow money benefits pushing renewable energy followthemoney energyagenda,Misinformation,0.0,Neutral
+weatherdependent energy sources cant trusted lets stick reliable power 247 reliabilityfirst energysecurity,Misinformation,0.0,Neutral
+embracing clean energy lead innovation job creation winwin economy environment greeneconomy jobcreation,NotMisinformation,0.3666666666666667,Positive
+even possible replace current energy sources lets realistic scale challenge energyrealities transitiondebate,NotMisinformation,0.05555555555555555,Positive
+invest future past renewable tech advancing rapidly part change innovationmatters energyprogress,NotMisinformation,-0.125,Negative
+lets forget geopolitical implications leaving fossil fuels behind energy independence matters geopolitics energygeopolitics,NotMisinformation,-0.4,Negative
+oceans rising storms intensifying clean energy help combat climate change devastating effects climateaction energysolution,NotMisinformation,-0.31666666666666665,Negative
+green energy subsidies waste taxpayer money let market decide winners marketforces energypolicy,Misinformation,-0.2,Negative
+transitioning renewables preserve beautiful landscapes protect biodiversity step towards greener world natureprotection energyshift,NotMisinformation,0.85,Positive
+global cooperation essential successful energy transition lets work together tackle shared challenge globalgoals energycollaboration,NotMisinformation,0.25,Positive
+carbon capture better solution completely ditching fossil fuels lets pragmatic emissions reduction carboncapture energyapproach,Misinformation,0.3,Positive
+climate disasters getting worse must transition clean energy prevent catastrophic events climateemergency cleanenergynow,NotMisinformation,-0.016666666666666663,Negative
+data shows renewables becoming costeffective lets harness opportunity sustainable future costefficiency renewableeconomics,NotMisinformation,0.225,Positive
+oil gas industry jobs evolve clean energy roles reskilling adapting jobtransition energyworkforce,NotMisinformation,0.3666666666666667,Positive
+wind solar hydropower provide diverse resilient energy mix lets reduce dependency one energy source energydiversity resilientgrid,NotMisinformation,0.0,Neutral
+transitioning industries clean energy reduce air pollution improve public health step towards cleaner air healthierplanet cleanerair,NotMisinformation,0.18333333333333335,Positive
+energy transition chance invest new infrastructure drive economic growth infrastructureinvestment energyfuture,NotMisinformation,0.16818181818181818,Positive
+electric vehicles renewable energy go hand hand lets pave way transportation revolution evrevolution greenmobility,NotMisinformation,0.0,Neutral
+denying climate change wont stop effects embracing renewable energy practical way mitigate impact climatereality energyaction,NotMisinformation,0.0,Neutral
+technology evolves energy sources time adapt embrace cleaner future techprogress energyevolution,NotMisinformation,0.0,Neutral
+transitioning clean energy isnt choice necessity survival planet cleanfuture energynecessity,NotMisinformation,0.3666666666666667,Positive
+lets consider longterm benefits shortterm costs clean energy pays grand scheme things longtermvision energyinvestment,NotMisinformation,0.43333333333333335,Positive
+responsibility leave habitable planet future generations clean energy crucial step fulfilling duty futurelegacy sustainableplanet,NotMisinformation,0.12222222222222223,Positive
+educate benefits renewable energy dismissing transition knowledgeispower energyeducation,NotMisinformation,0.0,Neutral
+oil era wont last forever diversifying energy sources ensures stable future energydiversification futureproofing,NotMisinformation,0.0,Neutral
+share one earth energy transition affects us lets work towards harmonious sustainable future oneplanet energyunity,NotMisinformation,0.0,Neutral
+preserving natural habitats ecosystems starts reducing reliance polluting energy sources naturepreservation cleanerplanet,NotMisinformation,0.1,Positive
+time act delaying energy transition exacerbates challenges face actnow energyurgency,NotMisinformation,0.0,Neutral
+resilience humanity overcome many challenges transitioning energy system another triumph humanresilience energychallenge,NotMisinformation,0.5,Positive
+harnessing power sun fantasy reality drive energy future solarpower cleanenergyrevolution,NotMisinformation,0.0,Neutral
+wind energy clean renewable resource help us break free fossil fuels lets catch wind change windpower energyrevolution,NotMisinformation,0.38333333333333336,Positive
+wave tidal energy hold incredible potential time ride waves innovation towards sustainable future wavepower tidalenergy,NotMisinformation,0.3,Positive
+energy transition isnt technology mindset shift towards responsible consumption conservation mindsetchange energyethics,NotMisinformation,0.2,Positive
+renewable energy projects bring life back abandoned industrial sites revitalizing communities communityrevival renewableprojects,NotMisinformation,0.0,Neutral
+global energy transition collective effort transcending borders politics greener world globaltransition energycollaboration,NotMisinformation,0.0,Neutral
+embracing innovation energy lead breakthroughs transform way power lives innovationimpact energyinnovation,NotMisinformation,0.0,Neutral
+lets debunk myth renewables unreliable advances storage tech ensure energy availability even sun sets storagesolutions renewablereliability,NotMisinformation,0.0,Neutral
+businesses going green isnt trend smart strategy longterm sustainability cost savings greenbusiness energysavings,NotMisinformation,0.007142857142857131,Positive
+engaging open dialogues energy transition helps us navigate challenges identify viable solutions opendialogue energydiscussions,NotMisinformation,0.2,Positive
+every small action towards energy efficiency contributes bigger goal reducing carbon footprint smallsteps energysustainability,NotMisinformation,-0.049999999999999996,Negative
+transition clean energy involves repurposing existing infrastructure better cleaner tomorrow infrastructurereuse energytransition,NotMisinformation,0.43333333333333335,Positive
+investing research development new energy tech investment future prosperity rnd energyinnovation,NotMisinformation,0.06818181818181818,Positive
+renewable energy projects create jobs construction also operations maintenance innovation greenjobs renewableemployment,NotMisinformation,0.0,Neutral
+energy storage technology advancing making intermittent renewables reliable stable energy source energystorage renewablereliability,NotMisinformation,0.0,Neutral
+beauty renewables lies renewability wont run like finite fossil fuels sustainablefuture renewableadvantage,NotMisinformation,0.0,Neutral
+energy transition key pillar fight climate change lets stand cooler cleaner planet climateactionnow energyshift,NotMisinformation,0.0,Neutral
+protecting environment shared responsibility transitioning clean energy shows commitment future generations environmentalprotection energyaccountability,NotMisinformation,0.18333333333333335,Positive
+weaning oil reduces vulnerability price fluctuations geopolitical conflicts reducedrisk energysecurity,NotMisinformation,0.0,Neutral
+sunrise clean energy breaking clouds pollution lets embrace brighter future newdawn cleanenergyhorizon,NotMisinformation,0.18333333333333335,Positive
+dont fall hype clean energy way elites control choices pocket money energyconspiracy hiddenagendas,Misinformation,0.3666666666666667,Positive
+climate change natural cycle push clean energy ploy control industries limit personal freedom naturalchange energymanipulation,Misinformation,0.15555555555555556,Positive
+renewable energy fantasy sun cant power industries wind turbines eyesore stick whats proven fossilforever energyrealities,Misinformation,0.0,Neutral
+say renewables cheap costs explode factor maintenance inefficiencies renewablecosts energyexpense,Misinformation,0.4,Positive
+clean energy subsidies scam tax money goes line pockets greedy corporations save planet greenscam energysubsidies,Misinformation,0.3666666666666667,Positive
+switching renewables wont make dent global emissions virtue signaling without real impact emissionsfallacy greenhype,Misinformation,0.1,Positive
+solar panels wind turbines made using fossil fuels hypocrisy clean energy advocates astounding dirtystart cleanmyths,Misinformation,0.48333333333333334,Positive
+dont believe fearmongering climate disasters tactic push agenda control regulation feartactics climatemanipulation,Misinformation,0.0,Neutral
+economy cant thrive unreliable energy transitioning means sacrificing growth pipe dream economicrisk energytradeoff,Misinformation,0.0,Neutral
+energy transition lead job loss creation truth renewable industries cant replace scale fossil fuel workforce jobfears energymyths,Misinformation,0.0,Neutral
+renewable energy sources unpredictable cant afford blackouts due cloudy days calm winds energyunreliable renewablerisks,Misinformation,0.0027777777777778048,Positive
+electric cars might green producing batteries environmental nightmare dont let fool evtruths greenillusion,Misinformation,-0.2,Negative
+wondered dont talk rare materials needed renewables hidden downside ignore rarereality renewableneglect,Misinformation,0.06666666666666667,Positive
+fossil fuels powered us centuries idea switch entirely renewables overnight pure fantasy historicalfacts energyillusions,Misinformation,0.10714285714285714,Positive
+wind turbines noisy dangerous birds consequences rushing wind energy ignored windharms greenrisk,Misinformation,-0.6,Negative
+electric cars arent green seem energy needed produce charge outweighs environmental benefit evfallacy greendeceit,Misinformation,-0.2,Negative
+hydropower might clean dams destroy ecosystems displace communities tradeoff dont talk hydroharm cleancoverup,Misinformation,0.08333333333333334,Positive
+renewable energy cant provide constant power needed modern life grid would collapse strain powerreality renewablefail,Misinformation,0.1,Positive
+science behind climate change biased manipulated way push ideological agenda solid fact sciencedoubt climateagenda,Misinformation,-0.2,Negative
+industries rely fossil fuels reason transitioning would lead economic collapse chaos industrydoom energycollapse,Misinformation,0.2,Positive
+clean energy wont save planet climate change natural occurrence cant control windmills solar panels climatedenial cleanenergymyths,Misinformation,0.23333333333333334,Positive
+renewable energy fad fade away people realize practical stick reliable fossil fuels renewablefad energyrealism,Misinformation,0.0,Neutral
+worlds oil reserves abundant claims running scare tactic push renewables abundantoil energyfearmongering,Misinformation,0.6,Positive
+green energy scheme make rich everyone else pays higher energy prices dont pawn game greenscheme energyprofiteering,Misinformation,0.006249999999999992,Positive
+transitioning clean energy luxury rich afford leaves rest us higher bills fewer options energyinequity greenelitism,Misinformation,0.33055555555555555,Positive
+solar wind power unreliable relying would leave us vulnerable energy shortages instability energyunreliable renewablerisk,Misinformation,-0.5,Negative
+energy transition distraction real issues like poverty education dont let divert focus distractiontactic energydiversion,Misinformation,0.2,Positive
+sun doesnt shine 247 solar power never truly replace fossil fuels sunset solarreality,Misinformation,0.0,Neutral
+wind turbines blight landscapes never meet energy needs windwaste energyscam,Misinformation,0.0,Neutral
+clean energy might clean affordable average person prepare skyrocketing bills cleancosts energyburden,Misinformation,0.19444444444444445,Positive
+dont believe propaganda fossil fuels main cause pollution sources go ignored pollutionfacts fossilrealities,Misinformation,0.033333333333333326,Positive
+electric grid instability would skyrocket unreliable nature renewables recipe disaster gridchaos energyinstability,Misinformation,0.0,Neutral
+tidal wave energy pipe dreams investing waste resources better spent reliable sources tidalwaste energyfolly,Misinformation,0.06666666666666667,Positive
+oil gas industry jobs essential economies cant abandon risky green experiments oiljobsmatter energypriorities,Misinformation,-0.1,Negative
+whole carbon footprint concept guilt trip control behavior personal choices wont change world carbonguilt environmentalmanipulation,Misinformation,0.1,Positive
+electric vehicles overhyped production harmful conventional cars environmental impact negligible evreality greendeception,Misinformation,-0.14285714285714285,Negative
+renewable energy projects destroy ecosystems disrupt habitats cause irreparable harm ecodamage renewableimpact,Misinformation,-0.2,Negative
+energy transition excuse governments impose control lives limit personal freedoms powercontrol energymanipulation,Misinformation,-0.025,Negative
+economic cost transitioning high benefits uncertain cant gamble prosperity unproven technologies economicrisk energygamble,Misinformation,0.18,Positive
+transitioning clean energy wont stop natural disasters climate change matter climatereality energyfutility,Misinformation,0.23333333333333334,Positive
+solar panels expensive afford,Misinformation,-0.5,Negative
+initial costs solar panels might high pay long run energy savings solarinvestment,NotMisinformation,0.03666666666666667,Positive
+transitioning renewable energy hurt economy leading job losses,Misinformation,0.0,Neutral
+renewable energy industries actually create jobs long term fostering economic growth greeneconomy,NotMisinformation,0.05000000000000001,Positive
+renewable energy cant provide consistent power,Misinformation,0.25,Positive
+advances energy storage making renewables reliable ensuring continuous energy availability energystorage,NotMisinformation,0.0,Neutral
+wind turbines dangerous health due noise pollution,Misinformation,-0.3625,Negative
+studies show wind turbine noise typically harmful human health windenergyfacts,NotMisinformation,-0.08333333333333333,Negative
+renewable energy projects destroy wildlife habitats,Misinformation,-0.2,Negative
+many renewable projects designed environmental impact mind minimizing disruption ecosystems renewablesustainability,NotMisinformation,0.5,Positive
+solar panels made using toxic chemicals harming environment,Misinformation,0.0,Neutral
+solar panels produced safer technologies reducing environmental impact solarinnovation,NotMisinformation,0.0,Neutral
+energy transition pointless countries dont participate,Misinformation,-0.25,Negative
+global cooperation essential even individual efforts contribute greener world globaltransition,NotMisinformation,0.0,Neutral
+climate change natural process human actions little impact,Misinformation,-0.029166666666666664,Negative
+scientific consensus confirms human activities significant driver current climate change climatescience,NotMisinformation,0.125,Positive
+government stay energy matters,Misinformation,0.0,Neutral
+government policies play crucial role accelerating adoption clean energy technologies policyimpact,NotMisinformation,0.18333333333333335,Positive
+clean energy incentives waste taxpayer money,Misinformation,0.08333333333333334,Positive
+incentives promote renewable adoption stimulate innovation drive costs long term cleanincentives,NotMisinformation,-0.05,Negative
+transitioning destroy industries reliant fossil fuels,Misinformation,-0.2,Negative
+transition offers opportunity industries adapt innovate become sustainable industrialshift,NotMisinformation,0.1,Positive
+energy transition wont affect heavy industries,Misinformation,-0.2,Negative
+energy transition lead changes energyintensive industries necessitating innovation adaptation industrychange,NotMisinformation,0.0,Neutral
+renewable technology experimental rely,Misinformation,0.1,Positive
+renewable technologies matured significantly already powering substantial portion grid renewablematurity,NotMisinformation,0.375,Positive
+renewable energy cant meet growing energy demand,Misinformation,0.0,Neutral
+continuous advancements renewables potential fulfill significant portion future energy needs renewablepotential,NotMisinformation,0.125,Positive
+transitioning collapse oil gas industry,Misinformation,0.0,Neutral
+energy transition lead diverse energy mix reducing dependence single market energydiversification,NotMisinformation,-0.07142857142857142,Negative
+renewable energy lead higher energy prices,Misinformation,0.25,Positive
+technology advances economies scale realized renewables become costcompetitive traditional sources renewableeconomics,NotMisinformation,0.0,Neutral
