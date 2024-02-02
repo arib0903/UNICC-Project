@@ -1,5 +1,5 @@
 ## Overview
-AI-Studio project developed in a association with Cornell Tech, the Break Through Tech AI program, and the United Nations International Computing Centre. A collaboration with a team of five leveraging machine learning to detect misinformation on twitter about climate change and renewable resources.
+AI-Studio project developed in association with Cornell Tech, the Break Through Tech AI program, and the United Nations International Computing Centre. A collaboration with a team of five leveraging machine learning to detect misinformation on twitter about climate change and renewable resources.
 
 ## Objective
 Develop a model to identify misinformation, aiding stakeholders in promoting accurate information.
